@@ -1,0 +1,37 @@
+* text=auto
+
+# Source and Unity YAML assets use stable cross-platform line endings.
+*.cs text eol=lf diff=csharp
+*.asmdef text eol=lf
+*.asmref text eol=lf
+*.json text eol=lf
+*.md text eol=lf
+*.txt text eol=lf
+*.shader text eol=lf
+*.shadergraph text eol=lf
+*.hlsl text eol=lf
+*.cginc text eol=lf
+*.compute text eol=lf
+*.meta text eol=lf
+*.unity text eol=lf merge=unityyamlmerge
+*.prefab text eol=lf merge=unityyamlmerge
+*.asset text eol=lf merge=unityyamlmerge
+*.mat text eol=lf merge=unityyamlmerge
+*.anim text eol=lf merge=unityyamlmerge
+*.controller text eol=lf merge=unityyamlmerge
+
+# Binary assets must never be line-ending converted or text-merged.
+*.fbx binary
+*.blend binary
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.tga binary
+*.exr binary
+*.hdr binary
+*.psd binary
+*.wav binary
+*.mp3 binary
+*.ogg binary
+*.aiff binary
+*.bank binary

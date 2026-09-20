@@ -1,0 +1,693 @@
+{
+  "version": "v11",
+  "created_utc": "2026-09-20T13:27:46.791528+00:00",
+  "source_blend": "01_Blender_Source/Environment/Stage1_TrainCarriage_BakedPBR_v10.blend",
+  "output_blend": "01_Blender_Source/Environment/Stage1_TrainCarriage_UnityExportPrep_v11.blend",
+  "source_preserved": true,
+  "unity_or_quest_tested": false,
+  "coordinate_system": {
+    "blender_units": "Metric, scale_length=1.0",
+    "fbx": "-Z Forward, Y Up, unit scale applied",
+    "unity_scale_factor": 1.0
+  },
+  "door_pivot_policy": "Door origins/locations/rotations preserved; scale applied only",
+  "processed_mesh_count": 234,
+  "excluded_from_environment_fbx": [
+    "ANCHOR_Vestibule_PhoneStanding",
+    "ANCHOR_Vestibule_SmokerLeaning",
+    "Camera",
+    "Cube",
+    "FX_Smoke_Placeholder",
+    "GEO_PhoneStanding_Forearm_L",
+    "GEO_PhoneStanding_Forearm_R",
+    "GEO_PhoneStanding_Hand_L",
+    "GEO_PhoneStanding_Hand_R",
+    "GEO_PhoneStanding_Head",
+    "GEO_PhoneStanding_Joint_00",
+    "GEO_PhoneStanding_Joint_01",
+    "GEO_PhoneStanding_Joint_02",
+    "GEO_PhoneStanding_Joint_03",
+    "GEO_PhoneStanding_Pelvis",
+    "GEO_PhoneStanding_Shin_L",
+    "GEO_PhoneStanding_Shin_R",
+    "GEO_PhoneStanding_Shoe_L",
+    "GEO_PhoneStanding_Shoe_R",
+    "GEO_PhoneStanding_Thigh_L",
+    "GEO_PhoneStanding_Thigh_R",
+    "GEO_PhoneStanding_Torso",
+    "GEO_PhoneStanding_UpperArm_L",
+    "GEO_PhoneStanding_UpperArm_R",
+    "GEO_SmokerLeaning_Forearm_L",
+    "GEO_SmokerLeaning_Forearm_R",
+    "GEO_SmokerLeaning_Hand_L",
+    "GEO_SmokerLeaning_Hand_R",
+    "GEO_SmokerLeaning_Head",
+    "GEO_SmokerLeaning_Joint_00",
+    "GEO_SmokerLeaning_Joint_01",
+    "GEO_SmokerLeaning_Joint_02",
+    "GEO_SmokerLeaning_Joint_03",
+    "GEO_SmokerLeaning_Pelvis",
+    "GEO_SmokerLeaning_Shin_L",
+    "GEO_SmokerLeaning_Shin_R",
+    "GEO_SmokerLeaning_Shoe_L",
+    "GEO_SmokerLeaning_Shoe_R",
+    "GEO_SmokerLeaning_Thigh_L",
+    "GEO_SmokerLeaning_Thigh_R",
+    "GEO_SmokerLeaning_Torso",
+    "GEO_SmokerLeaning_UpperArm_L",
+    "GEO_SmokerLeaning_UpperArm_R",
+    "Light",
+    "PROP_PhoneStanding_Phone",
+    "PROP_SmokerLeaning_Cigarette",
+    "PROP_SmokerLeaning_CigaretteTip",
+    "REF_Camera_Stage1",
+    "REF_Camera_Vestibule",
+    "REF_EyeHeight_170cm",
+    "REF_HumanScale_175cm",
+    "REF_Light_Ceiling_01",
+    "REF_Light_Ceiling_02",
+    "REF_Light_Ceiling_03",
+    "REF_Light_Vestibule",
+    "RENDER_v09_Camera",
+    "RENDER_v09_CameraFill",
+    "RENDER_v09_Ceiling_01",
+    "RENDER_v09_Ceiling_02",
+    "RENDER_v09_Ceiling_03",
+    "RENDER_v09_Ceiling_04",
+    "RENDER_v09_RedDoor_Accent",
+    "RIG_Vestibule_PhoneStanding",
+    "RIG_Vestibule_SmokerLeaning"
+  ],
+  "exports": {
+    "environment": {
+      "file": "02_FBX_Exports/Environment/v11/Stage1_Environment_Static_v11.fbx",
+      "size_bytes": 497004,
+      "sha256": "cc715849c483d235cc63b937e0489ec3aef8c87cc0d39cfc4a6add5328690686",
+      "source_summary": {
+        "count": 70,
+        "mesh_count": 70,
+        "empty_count": 0,
+        "vertices": 2520,
+        "polygons": 1890,
+        "bounds": {
+          "min_blender_xyz_m": [
+            -5.655,
+            -1.57,
+            -0.12
+          ],
+          "max_blender_xyz_m": [
+            8.2925,
+            1.57,
+            2.7
+          ],
+          "size_m": [
+            13.9475,
+            3.14,
+            2.82
+          ]
+        },
+        "objects": [
+          "GEO_Ceiling",
+          "GEO_Ceiling_Trim",
+          "GEO_Curtain_Rails",
+          "GEO_EndWall_RD1",
+          "GEO_EndWall_RD2",
+          "GEO_Floor",
+          "GEO_Floor_Skirting",
+          "GEO_Gangway_Connector",
+          "GEO_Gangway_DistantShadow",
+          "GEO_Rack_Left",
+          "GEO_Rack_Right",
+          "GEO_RD1_SurroundFrame",
+          "GEO_RD1_Threshold",
+          "GEO_RD2_SurroundFrame",
+          "GEO_RD2_Threshold",
+          "GEO_Seat_Row_01_Left",
+          "GEO_Seat_Row_01_Right",
+          "GEO_Seat_Row_02_Left",
+          "GEO_Seat_Row_02_Right",
+          "GEO_Seat_Row_03_Left",
+          "GEO_Seat_Row_03_Right",
+          "GEO_Seat_Row_04_Left",
+          "GEO_Seat_Row_04_Right",
+          "GEO_Seat_Row_05_Left",
+          "GEO_Seat_Row_05_Right",
+          "GEO_Seat_Row_06_Left",
+          "GEO_Seat_Row_06_Right",
+          "GEO_SeatSupport_Row_01_Left",
+          "GEO_SeatSupport_Row_01_Right",
+          "GEO_SeatSupport_Row_02_Left",
+          "GEO_SeatSupport_Row_02_Right",
+          "GEO_SeatSupport_Row_03_Left",
+          "GEO_SeatSupport_Row_03_Right",
+          "GEO_SeatSupport_Row_04_Left",
+          "GEO_SeatSupport_Row_04_Right",
+          "GEO_SeatSupport_Row_05_Left",
+          "GEO_SeatSupport_Row_05_Right",
+          "GEO_SeatSupport_Row_06_Left",
+          "GEO_SeatSupport_Row_06_Right",
+          "GEO_Vestibule_Ceiling",
+          "GEO_Vestibule_Floor",
+          "GEO_Vestibule_MechanicalRefs",
+          "GEO_Vestibule_RearFrame",
+          "GEO_Vestibule_Wall_Left",
+          "GEO_Vestibule_Wall_Right",
+          "GEO_Wall_Left",
+          "GEO_Wall_Right",
+          "GEO_WallPanels_Lower",
+          "GEO_WallPanels_Upper",
+          "GEO_Window_BelowTrim",
+          "GEO_Window_Left_01",
+          "GEO_Window_Left_02",
+          "GEO_Window_Left_03",
+          "GEO_Window_Left_04",
+          "GEO_Window_Left_05",
+          "GEO_Window_Right_01",
+          "GEO_Window_Right_02",
+          "GEO_Window_Right_03",
+          "GEO_Window_Right_04",
+          "GEO_Window_Right_05",
+          "GEO_WindowFrame_Left_01",
+          "GEO_WindowFrame_Left_02",
+          "GEO_WindowFrame_Left_03",
+          "GEO_WindowFrame_Left_04",
+          "GEO_WindowFrame_Left_05",
+          "GEO_WindowFrame_Right_01",
+          "GEO_WindowFrame_Right_02",
+          "GEO_WindowFrame_Right_03",
+          "GEO_WindowFrame_Right_04",
+          "GEO_WindowFrame_Right_05"
+        ]
+      },
+      "reimport_validation": {
+        "reimport_ok": true,
+        "object_count": 70,
+        "mesh_count": 70,
+        "empty_count": 0,
+        "vertices": 6760,
+        "polygons": 7190,
+        "bounds": {
+          "min_blender_xyz_m": [
+            -5.655,
+            -1.57,
+            -0.12
+          ],
+          "max_blender_xyz_m": [
+            8.2925,
+            1.57,
+            2.7
+          ],
+          "size_m": [
+            13.9475,
+            3.14,
+            2.82
+          ]
+        }
+      }
+    },
+    "props": {
+      "file": "02_FBX_Exports/Environment/v11/Stage1_Props_Static_v11.fbx",
+      "size_bytes": 734572,
+      "sha256": "fd8d0bbebbe6685f681d6537c189717dda6c8914f536f2305a44873e3ee77ca1",
+      "source_summary": {
+        "count": 159,
+        "mesh_count": 159,
+        "empty_count": 0,
+        "vertices": 3056,
+        "polygons": 2428,
+        "bounds": {
+          "min_blender_xyz_m": [
+            -4.965,
+            -1.48,
+            0.0
+          ],
+          "max_blender_xyz_m": [
+            6.202,
+            1.471,
+            2.43
+          ],
+          "size_m": [
+            11.167,
+            2.951,
+            2.43
+          ]
+        },
+        "objects": [
+          "GEO_Carriage_InfoPanel",
+          "GEO_Carriage_NumberPanel",
+          "GEO_Luggage_Cardboard_01",
+          "GEO_Luggage_Cardboard_02",
+          "GEO_Luggage_Suitcase_01",
+          "GEO_Luggage_Suitcase_02",
+          "GEO_Luggage_TravelBag_01",
+          "GEO_Luggage_TravelBag_02",
+          "GEO_Luggage_WovenBag_01",
+          "GEO_Table_Left_01",
+          "GEO_Table_Left_02",
+          "GEO_Table_Left_03",
+          "GEO_Table_Right_01",
+          "GEO_Table_Right_02",
+          "GEO_Table_Right_03",
+          "GEO_TableSupport_Left_01",
+          "GEO_TableSupport_Left_02",
+          "GEO_TableSupport_Left_03",
+          "GEO_TableSupport_Right_01",
+          "GEO_TableSupport_Right_02",
+          "GEO_TableSupport_Right_03",
+          "GEO_Utility_Bin",
+          "PROP_RackLeft_WrappedParcel_Box",
+          "PROP_RackLeft_WrappedParcel_Tie_X",
+          "PROP_RackLeft_WrappedParcel_Tie_Y",
+          "PROP_RackRight_RolledBlanket_Roll",
+          "PROP_RackRight_RolledBlanket_Tie_L",
+          "PROP_RackRight_RolledBlanket_Tie_R",
+          "PROP_RedDoorTable03_EnamelMug_Body",
+          "PROP_RedDoorTable03_EnamelMug_Drink",
+          "PROP_RedDoorTable03_EnamelMug_Handle",
+          "PROP_RedDoorTable03_Newspaper_Paper",
+          "PROP_RedDoorTable03_Newspaper_Print_01",
+          "PROP_RedDoorTable03_Newspaper_Print_02",
+          "PROP_RedDoorTable03_Newspaper_Print_03",
+          "PROP_RedDoorTable03_Ticket",
+          "PROP_RedDoorTable03_Ticket_Mark",
+          "PROP_Row02_WovenTravelBag_Body",
+          "PROP_Row02_WovenTravelBag_Handle",
+          "PROP_Row02_WovenTravelBag_Stripe_A",
+          "PROP_Row02_WovenTravelBag_Stripe_B",
+          "PROP_Row03_FoldedPaper_Paper",
+          "PROP_Row03_FoldedPaper_Print_01",
+          "PROP_Row03_FoldedPaper_Print_02",
+          "PROP_Row03_FoldedPaper_Print_03",
+          "PROP_Row05_CanvasDuffel_Body",
+          "PROP_Row05_CanvasDuffel_Handle_L",
+          "PROP_Row05_CanvasDuffel_Handle_R",
+          "PROP_Row05_CanvasDuffel_Tag",
+          "PROP_TableLeft01_EnamelMug_Body",
+          "PROP_TableLeft01_EnamelMug_Drink",
+          "PROP_TableLeft01_EnamelMug_Handle",
+          "PROP_TableLeft01_Thermos_Band",
+          "PROP_TableLeft01_Thermos_Body",
+          "PROP_TableLeft01_Thermos_Cap",
+          "PROP_TableLeft01_Thermos_Handle",
+          "PROP_TableLeft02_TeaMug_Body",
+          "PROP_TableLeft02_TeaMug_Drink",
+          "PROP_TableLeft02_TeaMug_Handle",
+          "PROP_TableLeft02_WaterBottle_Body",
+          "PROP_TableLeft02_WaterBottle_Cap",
+          "PROP_TableLeft02_WaterBottle_Label",
+          "PROP_TableLeft02_WaterBottle_Shoulder",
+          "PROP_TableRight01_Newspaper_Paper",
+          "PROP_TableRight01_Newspaper_Print_01",
+          "PROP_TableRight01_Newspaper_Print_02",
+          "PROP_TableRight01_Newspaper_Print_03",
+          "PROP_TableRight01_Ticket",
+          "PROP_TableRight01_Ticket_Mark",
+          "PROP_TableRight02_NoodleCup_Cup",
+          "PROP_TableRight02_NoodleCup_Fork",
+          "PROP_TableRight02_NoodleCup_Lid",
+          "PROP_TableRight02_SnackWrapper",
+          "PROP_TableRight02_Ticket",
+          "PROP_TableRight02_Ticket_Mark",
+          "PROP_v04_Row01_BagStrap",
+          "PROP_v04_Row01_ShoulderBag",
+          "PROP_v04_Row03_CoatSleeve",
+          "PROP_v04_Row03_FoldedCoat",
+          "PROP_v04_Row04_Slipper_1",
+          "PROP_v04_Row04_Slipper_2",
+          "PROP_v04_Row05_CapBrim",
+          "PROP_v04_Row05_ClothCap",
+          "PROP_v04_Row05_EnamelBasin",
+          "PROP_v04_Row05_EnamelBasin_Rim",
+          "PROP_v04_Table01_LunchTin",
+          "PROP_v04_Table01_LunchTin_Handle",
+          "PROP_v04_Table01_LunchTin_Lid",
+          "PROP_v04_Table01_Orange_A",
+          "PROP_v04_Table01_Orange_B",
+          "PROP_v04_Table01_OrangeLeaf",
+          "PROP_v04_Table02_CardMark_01",
+          "PROP_v04_Table02_CardMark_02",
+          "PROP_v04_Table02_CardMark_03",
+          "PROP_v04_Table02_Chopstick_1",
+          "PROP_v04_Table02_Chopstick_2",
+          "PROP_v04_Table02_PlayingCard_01",
+          "PROP_v04_Table02_PlayingCard_02",
+          "PROP_v04_Table02_PlayingCard_03",
+          "PROP_v04_Table02_TeaJar",
+          "PROP_v04_Table02_TeaJar_Lid",
+          "PROP_v04_Table02_TeaJar_Tea",
+          "PROP_v04_Wall_Timetable",
+          "PROP_v04_Wall_TimetableLine_01",
+          "PROP_v04_Wall_TimetableLine_02",
+          "PROP_v04_Wall_TimetableLine_03",
+          "PROP_v04_Wall_TimetableLine_04",
+          "PROP_v04_Wall_TimetableLine_05",
+          "PROP_v04_Wall_UmbrellaCanopy",
+          "PROP_v04_Wall_UmbrellaHandle",
+          "PROP_v04_Wall_UmbrellaShaft",
+          "PROP_v06_RackRight_WickerBasket_Base",
+          "PROP_v06_RackRight_WickerBasket_Body",
+          "PROP_v06_RackRight_WickerBasket_Handle_L",
+          "PROP_v06_RackRight_WickerBasket_Handle_R",
+          "PROP_v06_RackRight_WickerBasket_Handle_Top",
+          "PROP_v06_RackRight_WickerBasket_Slat_1",
+          "PROP_v06_RackRight_WickerBasket_Slat_2",
+          "PROP_v06_RackRight_WickerBasket_Slat_3",
+          "PROP_v06_Row01_Boot_L_Cuff",
+          "PROP_v06_Row01_Boot_L_Foot",
+          "PROP_v06_Row01_Boot_R_Cuff",
+          "PROP_v06_Row01_Boot_R_Foot",
+          "PROP_v06_Row06_CanvasTote_Body",
+          "PROP_v06_Row06_CanvasTote_Handle",
+          "PROP_v06_Row06_CanvasTote_Trim",
+          "PROP_v06_Table03_Glasses_Arm_L",
+          "PROP_v06_Table03_Glasses_Arm_R",
+          "PROP_v06_Table03_Glasses_Bridge",
+          "PROP_v06_Table03_Glasses_Lens_L",
+          "PROP_v06_Table03_Glasses_Lens_R",
+          "PROP_v06_Table03_Radio_Antenna",
+          "PROP_v06_Table03_Radio_Body",
+          "PROP_v06_Table03_Radio_Face",
+          "PROP_v06_Table03_Radio_Knob_A",
+          "PROP_v06_Table03_Radio_Knob_B",
+          "PROP_v06_Table03_Radio_Speaker",
+          "PROP_v06_Table03_SpectacleCase",
+          "PROP_v07_RackLeft_Cardboard_A",
+          "PROP_v07_RackLeft_HardCase_A",
+          "PROP_v07_RackLeft_HardCase_B",
+          "PROP_v07_RackLeft_TravelBag_A",
+          "PROP_v07_RackRight_Cardboard_A",
+          "PROP_v07_RackRight_HardCase_A",
+          "PROP_v07_RackRight_HardCase_B",
+          "PROP_v07_RackRight_TravelBag_A",
+          "PROP_v07_Row01_UnderSeatCase",
+          "PROP_v07_Row06_UnderSeatCase",
+          "PROP_v08_Row01_Left_SideCase",
+          "PROP_v08_Row01_Right_SideCase",
+          "PROP_v08_Row02_Left_UnderSeatBag",
+          "PROP_v08_Row03_Right_UnderSeatCase",
+          "PROP_v08_Row04_Right_UnderSeatBag",
+          "PROP_v08_Row05_Right_UnderSeatCase",
+          "PROP_v08_Row06_Left_SideCase",
+          "PROP_v08_Row06_Right_SideCase",
+          "PROP_Vestibule_TrashBin_Body",
+          "PROP_Vestibule_TrashBin_Inside",
+          "PROP_Vestibule_TrashBin_Rim"
+        ]
+      },
+      "reimport_validation": {
+        "reimport_ok": true,
+        "object_count": 159,
+        "mesh_count": 159,
+        "empty_count": 0,
+        "vertices": 5440,
+        "polygons": 5408,
+        "bounds": {
+          "min_blender_xyz_m": [
+            -4.965,
+            -1.48,
+            -0.0
+          ],
+          "max_blender_xyz_m": [
+            6.202,
+            1.471,
+            2.43
+          ],
+          "size_m": [
+            11.167,
+            2.951,
+            2.43
+          ]
+        }
+      }
+    },
+    "doors": {
+      "file": "02_FBX_Exports/Environment/v11/Stage1_RedDoors_Interactive_v11.fbx",
+      "size_bytes": 53900,
+      "sha256": "8d5ec5a720cae3bdf90388505e8ad9d1e67bee9a008c69314adad874bc4c0783",
+      "source_summary": {
+        "count": 5,
+        "mesh_count": 5,
+        "empty_count": 0,
+        "vertices": 112,
+        "polygons": 84,
+        "bounds": {
+          "min_blender_xyz_m": [
+            -5.615,
+            -0.48,
+            0.0
+          ],
+          "max_blender_xyz_m": [
+            5.6725,
+            0.48,
+            2.06
+          ],
+          "size_m": [
+            11.2875,
+            0.96,
+            2.06
+          ]
+        },
+        "objects": [
+          "GEO_RD1_Glass",
+          "GEO_RD1_Handle",
+          "GEO_RD2_Handle",
+          "INT_RD1",
+          "INT_RD2"
+        ]
+      },
+      "reimport_validation": {
+        "reimport_ok": true,
+        "object_count": 5,
+        "mesh_count": 5,
+        "empty_count": 0,
+        "vertices": 320,
+        "polygons": 344,
+        "bounds": {
+          "min_blender_xyz_m": [
+            -5.615,
+            -0.48,
+            -0.0
+          ],
+          "max_blender_xyz_m": [
+            5.6725,
+            0.48,
+            2.06
+          ],
+          "size_m": [
+            11.2875,
+            0.96,
+            2.06
+          ]
+        }
+      }
+    },
+    "markers": {
+      "file": "02_FBX_Exports/Environment/v11/Stage1_Markers_v11.fbx",
+      "size_bytes": 23068,
+      "sha256": "a192fb71ec272fa9a22e492deb2d3c8bfcee948c3785a339a3f72450173ffd8b",
+      "source_summary": {
+        "count": 14,
+        "mesh_count": 0,
+        "empty_count": 14,
+        "vertices": 0,
+        "polygons": 0,
+        "bounds": null,
+        "objects": [
+          "ANCHOR_RD1",
+          "ANCHOR_RD2",
+          "AUDIO_CARRIAGE_BLEED",
+          "AUDIO_PASSENGER_LEFT_01",
+          "AUDIO_PASSENGER_RIGHT_01",
+          "AUDIO_PHONE_CALL",
+          "AUDIO_TRAIN_LOW_FREQ",
+          "AUDIO_WHEEL_LEFT",
+          "AUDIO_WHEEL_RIGHT",
+          "PLAYER_START",
+          "ZONE_CARRIAGE",
+          "ZONE_RD1",
+          "ZONE_RD2",
+          "ZONE_VESTIBULE"
+        ]
+      },
+      "reimport_validation": {
+        "reimport_ok": true,
+        "object_count": 14,
+        "mesh_count": 0,
+        "empty_count": 14,
+        "vertices": 0,
+        "polygons": 0,
+        "bounds": null
+      }
+    }
+  },
+  "textures": {
+    "Wall_Aged": {
+      "BaseColor": {
+        "path": "03_Textures/Environment/v11_UnityURP/Wall_Aged/Wall_Aged_BaseColor.png",
+        "size_bytes": 2615562,
+        "sha256": "cc1a793a8032118fa2175c29b886abda46d1b29a0ae0ab256066ef66dc340031"
+      },
+      "Normal": {
+        "path": "03_Textures/Environment/v11_UnityURP/Wall_Aged/Wall_Aged_Normal.png",
+        "size_bytes": 4051227,
+        "sha256": "ae15dba6dec1c978a504513b7092f5020c10d9e50543983223f769e651b4ee26"
+      },
+      "AO": {
+        "path": "03_Textures/Environment/v11_UnityURP/Wall_Aged/Wall_Aged_AO.png",
+        "size_bytes": 59578,
+        "sha256": "aeaa7437bf8bd1bbf2a9c25dfc45a280ee4839f58d0ae1a7cb4a0506e9098fa3"
+      },
+      "MetallicSmoothness": {
+        "path": "03_Textures/Environment/v11_UnityURP/Wall_Aged/Wall_Aged_MetallicSmoothness.png",
+        "size_bytes": 1080998,
+        "sha256": "58229662c465aea18f4e409e10a9ca1ba5f134cbddca5befb1b2de6fdd0e75a0",
+        "packing": "R=Metallic, A=1-Roughness (Smoothness), G=0, B=0"
+      },
+      "resolution": [
+        2048,
+        2048
+      ]
+    },
+    "Seat_Worn": {
+      "BaseColor": {
+        "path": "03_Textures/Environment/v11_UnityURP/Seat_Worn/Seat_Worn_BaseColor.png",
+        "size_bytes": 2458583,
+        "sha256": "ccb150b8ef35b605e084438c9e9811e8c0e9b3c9a527f979ba4f2cbe407e027a"
+      },
+      "Normal": {
+        "path": "03_Textures/Environment/v11_UnityURP/Seat_Worn/Seat_Worn_Normal.png",
+        "size_bytes": 4102708,
+        "sha256": "6462436253080d9bcbb18b3113c6368340b00a7b8fa93b8df6f86db1bfff0c50"
+      },
+      "AO": {
+        "path": "03_Textures/Environment/v11_UnityURP/Seat_Worn/Seat_Worn_AO.png",
+        "size_bytes": 59578,
+        "sha256": "aeaa7437bf8bd1bbf2a9c25dfc45a280ee4839f58d0ae1a7cb4a0506e9098fa3"
+      },
+      "MetallicSmoothness": {
+        "path": "03_Textures/Environment/v11_UnityURP/Seat_Worn/Seat_Worn_MetallicSmoothness.png",
+        "size_bytes": 1269331,
+        "sha256": "64cf7831489f39c53c737e0b96b58fdcc055793ea3da661bd2b1343d1d46f6c2",
+        "packing": "R=Metallic, A=1-Roughness (Smoothness), G=0, B=0"
+      },
+      "resolution": [
+        2048,
+        2048
+      ]
+    },
+    "Floor_Dirty": {
+      "BaseColor": {
+        "path": "03_Textures/Environment/v11_UnityURP/Floor_Dirty/Floor_Dirty_BaseColor.png",
+        "size_bytes": 3217635,
+        "sha256": "20a69078364a19f212292c77713f98b1e6e5833742b3ea80f0079f4ab1da9023"
+      },
+      "Normal": {
+        "path": "03_Textures/Environment/v11_UnityURP/Floor_Dirty/Floor_Dirty_Normal.png",
+        "size_bytes": 7043605,
+        "sha256": "415f8f8f3e402afd372afb17af1d14e9d6661ac4d374499e93dbb6ecac782566"
+      },
+      "AO": {
+        "path": "03_Textures/Environment/v11_UnityURP/Floor_Dirty/Floor_Dirty_AO.png",
+        "size_bytes": 59578,
+        "sha256": "aeaa7437bf8bd1bbf2a9c25dfc45a280ee4839f58d0ae1a7cb4a0506e9098fa3"
+      },
+      "MetallicSmoothness": {
+        "path": "03_Textures/Environment/v11_UnityURP/Floor_Dirty/Floor_Dirty_MetallicSmoothness.png",
+        "size_bytes": 1545155,
+        "sha256": "e7c271cc79cc047c2370cd786d8793b649dff35feb249ad8ffec75db407d4908",
+        "packing": "R=Metallic, A=1-Roughness (Smoothness), G=0, B=0"
+      },
+      "resolution": [
+        2048,
+        2048
+      ]
+    },
+    "Metal_Rusted": {
+      "BaseColor": {
+        "path": "03_Textures/Environment/v11_UnityURP/Metal_Rusted/Metal_Rusted_BaseColor.png",
+        "size_bytes": 2906455,
+        "sha256": "16cf94b146f6ced44434670d8374c5c4052f70e0d0cd9fa922dd0777feb826ad"
+      },
+      "Normal": {
+        "path": "03_Textures/Environment/v11_UnityURP/Metal_Rusted/Metal_Rusted_Normal.png",
+        "size_bytes": 4270362,
+        "sha256": "cb4f75c67db73e1ca44500c74d148f06e52ccb485a32857daf13bebfcbdd4075"
+      },
+      "AO": {
+        "path": "03_Textures/Environment/v11_UnityURP/Metal_Rusted/Metal_Rusted_AO.png",
+        "size_bytes": 59578,
+        "sha256": "aeaa7437bf8bd1bbf2a9c25dfc45a280ee4839f58d0ae1a7cb4a0506e9098fa3"
+      },
+      "MetallicSmoothness": {
+        "path": "03_Textures/Environment/v11_UnityURP/Metal_Rusted/Metal_Rusted_MetallicSmoothness.png",
+        "size_bytes": 2970994,
+        "sha256": "90e55241624cf2fb8c3866ddcf65e42506bb77e994d127c8ef68366f74106c7c",
+        "packing": "R=Metallic, A=1-Roughness (Smoothness), G=0, B=0"
+      },
+      "resolution": [
+        2048,
+        2048
+      ]
+    },
+    "RedDoor_Chipped": {
+      "BaseColor": {
+        "path": "03_Textures/Environment/v11_UnityURP/RedDoor_Chipped/RedDoor_Chipped_BaseColor.png",
+        "size_bytes": 3417191,
+        "sha256": "d6a11e6e2ced9ffac1ae9fc058b93fc202d807ea2c45004ea7dc409f36e119a5"
+      },
+      "Normal": {
+        "path": "03_Textures/Environment/v11_UnityURP/RedDoor_Chipped/RedDoor_Chipped_Normal.png",
+        "size_bytes": 5898936,
+        "sha256": "4ffabc23e2fff66624106c04bd3d8de7d0564d5a162417de4cedc4b9aab9ae4c"
+      },
+      "AO": {
+        "path": "03_Textures/Environment/v11_UnityURP/RedDoor_Chipped/RedDoor_Chipped_AO.png",
+        "size_bytes": 59578,
+        "sha256": "aeaa7437bf8bd1bbf2a9c25dfc45a280ee4839f58d0ae1a7cb4a0506e9098fa3"
+      },
+      "MetallicSmoothness": {
+        "path": "03_Textures/Environment/v11_UnityURP/RedDoor_Chipped/RedDoor_Chipped_MetallicSmoothness.png",
+        "size_bytes": 3407534,
+        "sha256": "9b37e0224195a148182e4168faf9847b05c16f573cd4894fa479478b2c621e9e",
+        "packing": "R=Metallic, A=1-Roughness (Smoothness), G=0, B=0"
+      },
+      "resolution": [
+        2048,
+        2048
+      ]
+    },
+    "Table_Stained": {
+      "BaseColor": {
+        "path": "03_Textures/Environment/v11_UnityURP/Table_Stained/Table_Stained_BaseColor.png",
+        "size_bytes": 1020364,
+        "sha256": "350c310a92c102146cb8ef6ecb92b1d3dd73637d2a0e6abf8abf92a33a2aeaac"
+      },
+      "Normal": {
+        "path": "03_Textures/Environment/v11_UnityURP/Table_Stained/Table_Stained_Normal.png",
+        "size_bytes": 1671502,
+        "sha256": "1cd25a4332f065021444b2a2ea6c162bd6ba5d01d877c089015cded35e4b80cd"
+      },
+      "AO": {
+        "path": "03_Textures/Environment/v11_UnityURP/Table_Stained/Table_Stained_AO.png",
+        "size_bytes": 15959,
+        "sha256": "85a0969f7caaaa349e1d0fb080f2665d8b2f2735639ff292d875582cb56ac73b"
+      },
+      "MetallicSmoothness": {
+        "path": "03_Textures/Environment/v11_UnityURP/Table_Stained/Table_Stained_MetallicSmoothness.png",
+        "size_bytes": 476189,
+        "sha256": "9c0900d10288f1bbabcd3991780acf8863f48adb04ff7385a335b634522f056a",
+        "packing": "R=Metallic, A=1-Roughness (Smoothness), G=0, B=0"
+      },
+      "resolution": [
+        1024,
+        1024
+      ]
+    }
+  },
+  "known_limitations": [
+    "Unity Editor import has not been tested in this iteration.",
+    "Quest 3 runtime has not been tested in this iteration.",
+    "Only six baked environment material families have Unity-packed PBR maps.",
+    "Passenger rigs and smoke placeholder are intentionally excluded from environment FBXs."
+  ]
+}

@@ -1,0 +1,44 @@
+# Unity generated folders — rebuilt independently on each computer.
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Mm]emoryCaptures/
+/[Rr]ecordings/
+
+# Local builds and deployment output.
+/[Bb]uild/
+/[Bb]uilds/
+*.apk
+*.aab
+*.unitypackage
+
+# IDE-generated files.
+/.vscode/
+/.idea/
+*.csproj
+*.sln
+*.slnx
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# Operating-system metadata, including AppleDouble files created on exFAT.
+.DS_Store
+._*
+Thumbs.db
+Desktop.ini
+
+# Unity crash and temporary diagnostic files.
+sysinfo.txt
+crashlytics-build.properties
+
+# Optional Asset Store tooling cache.
+/Assets/AssetStoreTools*

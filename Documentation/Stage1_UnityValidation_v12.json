@@ -1,0 +1,25 @@
+{
+    "validatedUtc": "2026-09-20T14:00:48.4188290Z",
+    "unityVersion": "6000.3.19f1",
+    "passed": true,
+    "sceneReopened": true,
+    "xrOriginPresent": true,
+    "mainCameraPresent": true,
+    "openXrLoaderAssigned": true,
+    "metaQuestFeatureEnabled": true,
+    "oculusTouchProfileEnabled": true,
+    "androidIsActiveTarget": true,
+    "textureCount": 24,
+    "rendererCount": 235,
+    "meshFilterCount": 235,
+    "redDoorMeshCount": 5,
+    "missingMaterialCount": 0,
+    "errorShaderMaterialCount": 0,
+    "boundsSize": [
+        13.947515487670899,
+        2.820021629333496,
+        3.140021800994873
+    ],
+    "questRuntimeValidated": false,
+    "note": "Fresh Unity process reopened and validated the scene. No APK was built or run on Quest 3."
+}

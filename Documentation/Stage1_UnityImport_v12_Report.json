@@ -1,0 +1,47 @@
+{
+    "version": "v12",
+    "createdUtc": "2026-09-20T13:58:53.4124900Z",
+    "unityVersion": "6000.3.19f1",
+    "projectPath": "/Volumes/Magic Drive/Blender FDX/The_Red_Door_Stage1/05_Unity/Stage1_Quest3_VR",
+    "activeBuildTarget": "Android",
+    "scenePath": "Assets/TheRedDoor/Stage1/Scenes/Stage1_Quest3_SmokeTest.unity",
+    "editorImportValidated": true,
+    "questRuntimeValidated": false,
+    "openXrLoaderAssigned": true,
+    "metaQuestFeatureEnabled": true,
+    "oculusTouchProfileEnabled": true,
+    "xrOriginPresent": true,
+    "mainCameraPresent": true,
+    "playerStartMarkerUsed": true,
+    "fbxCount": 4,
+    "textureCount": 24,
+    "generatedMaterialCount": 75,
+    "rendererCount": 235,
+    "meshFilterCount": 235,
+    "redDoorObjectCount": 5,
+    "combinedBoundsSize": [
+        13.947516441345215,
+        2.820021629333496,
+        3.140021800994873
+    ],
+    "packageVersions": [
+        "com.unity.render-pipelines.universal@17.3.0",
+        "com.unity.inputsystem@1.19.0",
+        "com.unity.xr.management@4.5.4",
+        "com.unity.xr.openxr@1.16.1",
+        "com.unity.xr.interaction.toolkit@3.3.2"
+    ],
+    "modelAssets": [
+        "Assets/TheRedDoor/Stage1/Models/Environment/Stage1_Environment_Static_v11.fbx",
+        "Assets/TheRedDoor/Stage1/Models/Environment/Stage1_Props_Static_v11.fbx",
+        "Assets/TheRedDoor/Stage1/Models/Environment/Stage1_RedDoors_Interactive_v11.fbx",
+        "Assets/TheRedDoor/Stage1/Models/Environment/Stage1_Markers_v11.fbx"
+    ],
+    "warnings": [
+        "Unity Editor asset import and scene assembly are validated; Quest 3 runtime is not yet validated.",
+        "Lighting is temporary smoke-test lighting, not final Stage 1 lighting.",
+        "Small lifestyle props use generated URP fallback materials and can receive dedicated PBR maps later.",
+        "Red doors remain separate and contain no interaction scripts in this iteration.",
+        "Passenger rigs, particle effects, FMOD, and gameplay logic are not imported in this iteration."
+    ]
+}
