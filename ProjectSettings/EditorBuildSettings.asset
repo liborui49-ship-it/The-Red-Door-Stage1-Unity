@@ -6,6 +6,9 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/TheRedDoor/Stage1/Scenes/Stage1_VerticalSlice_v01.unity
+    guid: f7dded94d79a24a41b7facf366cefa52
+  - enabled: 0
     path: Assets/TheRedDoor/Stage1/Scenes/Stage1_Quest3_SmokeTest.unity
     guid: 6a880b4752c154a8ebfab2123cccb1c6
   m_configObjects:

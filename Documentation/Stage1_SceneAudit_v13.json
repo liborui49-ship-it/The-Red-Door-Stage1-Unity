@@ -1,0 +1,5887 @@
+{
+    "createdUtc": "2026-09-20T15:13:10.8159320Z",
+    "unityVersion": "6000.3.19f1",
+    "scenePath": "Assets/TheRedDoor/Stage1/Scenes/Stage1_Quest3_SmokeTest.unity",
+    "rendererCount": 235,
+    "colliderCount": 0,
+    "lightCount": 4,
+    "xrOriginPosition": [
+        -7.059999942779541,
+        0.029999999329447748,
+        0.0
+    ],
+    "combinedBoundsCenter": [
+        -1.3187518119812012,
+        1.2899999618530274,
+        -1.1920928955078126e-7
+    ],
+    "combinedBoundsSize": [
+        13.947516441345215,
+        2.820021629333496,
+        3.140021800994873
+    ],
+    "environmentRenderers": [
+        {
+            "path": "The Red Door — Stage 1 v12/Environment_Static_v11/GEO_Ceiling",
+            "mesh": "GEO_Ceiling",
+            "position": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "rotation": [
+                270.019775390625,
+                0.0,
+                0.0
+            ],
+            "boundsCenter": [
+                0.0,
+                2.6499998569488527,
+                -3.159046286782541e-7
+            ],
+            "boundsSize": [
+                11.240020751953125,
+                0.10002194344997406,
+                3.140021324157715
+            ]
+        },
+        {
+            "path": "The Red Door — Stage 1 v12/Environment_Static_v11/GEO_Ceiling_Trim",
+            "mesh": "GEO_Ceiling_Trim",
+            "position": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "rotation": [
+                270.019775390625,
+                0.0,
+                0.0
+            ],
+            "boundsCenter": [
+                0.0,
+                2.489999771118164,
+                -2.968311321183137e-7
+            ],
+            "boundsSize": [
+                10.82002067565918,
+                0.1000208780169487,
+                2.9000205993652345
+            ]
+        },
+        {
+            "path": "The Red Door — Stage 1 v12/Environment_Static_v11/GEO_Curtain_Rails",
+            "mesh": "GEO_Curtain_Rails",
+            "position": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "rotation": [
+                270.019775390625,
+                0.0,
+                0.0
+            ],
+            "boundsCenter": [
+                0.0,
+                2.054999589920044,
+                -2.449750695632247e-7
+            ],
+            "boundsSize": [
+                10.300020217895508,
+                0.03801984712481499,
+                2.8080193996429445
+            ]
+        },
+        {
+            "path": "The Red Door — Stage 1 v12/Environment_Static_v11/GEO_EndWall_RD1",
+            "mesh": "GEO_EndWall_RD1",
+            "position": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "rotation": [
+                270.019775390625,
+                0.0,
+                0.0
+            ],
+            "boundsCenter": [
+                -5.559999942779541,
+                1.2999998331069947,
+                -1.5497207073167375e-7
+            ],
+            "boundsSize": [
+                0.12001556158065796,
+                2.600015640258789,
+                2.9000158309936525
+            ]
+        },
+        {
+            "path": "The Red Door — Stage 1 v12/Environment_Static_v11/GEO_EndWall_RD2",
+            "mesh": "GEO_EndWall_RD2",
+            "position": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "rotation": [
+                270.019775390625,
+                0.0,
+                0.0
+            ],
+            "boundsCenter": [
+                5.559999942779541,
+                1.2999998331069947,
+                -1.5497207073167375e-7
+            ],
+            "boundsSize": [
+                0.12001337110996247,
+                2.600013494491577,
+                2.9000136852264406
+            ]
+        },
+        {
+            "path": "The Red Door — Stage 1 v12/Environment_Static_v11/GEO_Floor",
+            "mesh": "GEO_Floor",
+            "position": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "rotation": [
+                270.019775390625,
+                0.0,
+                0.0
+            ],
+            "boundsCenter": [
+                0.0,
+                -0.059999994933605197,
+                7.1525572131747598e-9
+            ],
+            "boundsSize": [
+                11.240020751953125,
+                0.12002179771661759,
+                3.140021324157715
+            ]
+        },
+        {
+            "path": "The Red Door — Stage 1 v12/Environment_Static_v11/GEO_Floor_Skirting",
+            "mesh": "GEO_Floor_Skirting",
+            "position": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "rotation": [
+                270.019775390625,
+                0.0,
+                0.0
+            ],
+            "boundsCenter": [
+                0.0,
+                0.08999999612569809,
+                -1.0728836485895954e-8
+            ],
+            "boundsSize": [
+                10.82002067565918,
+                0.18002097308635713,
+                2.9000205993652345
+            ]
+        },
+        {
+            "path": "The Red Door — Stage 1 v12/Environment_Static_v11/GEO_Gangway_Connector",
+            "mesh": "GEO_Gangway_Connector",
+            "position": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "rotation": [
+                270.019775390625,
+                0.0,
+                0.0
+            ],
+            "boundsCenter": [
+                -7.9800004959106449,
+                1.0649999380111695,
+                -1.269579001927923e-7
+            ],
+            "boundsSize": [
+                0.535020112991333,
+                2.1300199031829836,
+                1.3900198936462403
+            ]
+        },
+        {
+            "path": "The Red Door — Stage 1 v12/Environment_Static_v11/GEO_Gangway_DistantShadow",
+            "mesh": "GEO_Gangway_DistantShadow",
+            "position": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "rotation": [
+                270.019775390625,
+                0.0,
+                0.0
+            ],
+            "boundsCenter": [
+                -8.270000457763672,
+                1.0399998426437379,
+                -1.23977656585339e-7
+            ],
+            "boundsSize": [
+                0.0450187548995018,
+                1.9200196266174317,
+                1.030019760131836
+            ]
+        },
+        {
+            "path": "The Red Door — Stage 1 v12/Environment_Static_v11/GEO_Rack_Left",
+            "mesh": "GEO_Rack_Left",
+            "position": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "rotation": [
+                270.019775390625,
+                0.0,
+                0.0
+            ],
+            "boundsCenter": [
+                0.0,
+                2.088749408721924,
+                -1.1912500858306885
+            ],
+            "boundsSize": [
+                10.000019073486329,
+                0.7425191402435303,
+                0.4675191044807434
+            ]
+        },
+        {
+            "path": "The Red Door — Stage 1 v12/Environment_Static_v11/GEO_Rack_Right",
+            "mesh": "GEO_Rack_Right",
+            "position": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "rotation": [
+                270.019775390625,
+                0.0,
+                0.0
+            ],
+            "boundsCenter": [
+                0.0,
+                2.088749885559082,
+                1.1912496089935303
+            ],
+            "boundsSize": [
+                10.000019073486329,
+                0.7425191402435303,
+                0.4675191044807434
+            ]
+        },
+        {
+            "path": "The Red Door — Stage 1 v12/Environment_Static_v11/GEO_RD1_SurroundFrame",
+            "mesh": "GEO_RD1_SurroundFrame",
+            "position": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "rotation": [
+                270.019775390625,
+                0.0,
+                0.0
+            ],
+            "boundsCenter": [
+                -5.595000267028809,
+                1.0499999523162842,
+                -1.2516976255483315e-7
+            ],
+            "boundsSize": [
+                0.17001456022262574,
+                2.220015048980713,
+                1.220015048980713
+            ]
+        },
+        {
+            "path": "The Red Door — Stage 1 v12/Environment_Static_v11/GEO_RD1_Threshold",
+            "mesh": "GEO_RD1_Threshold",
+            "position": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "rotation": [
+                270.019775390625,
+                0.0,
+                0.0
+            ],
+            "boundsCenter": [
+                -5.609999656677246,
+                0.034999996423721316,
+                -4.172325152040912e-9
+            ],
+            "boundsSize": [
+                0.28001222014427187,
+                0.07001211494207382,
+                1.0800119638442994
+            ]
+        },
+        {
+            "path": "The Red Door — Stage 1 v12/Environment_Static_v11/GEO_RD2_SurroundFrame",
+            "mesh": "GEO_RD2_SurroundFrame",
+            "position": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "rotation": [
+                270.019775390625,
+                0.0,
+                0.0
+            ],
+            "boundsCenter": [
+                5.515000343322754,
+                1.0524998903274537,
+                -1.2546777838906565e-7
+            ],
+            "boundsSize": [
+                0.19001196324825288,
+                2.265011787414551,
+                1.2600120306015015
+            ]
+        },
+        {
+            "path": "The Red Door — Stage 1 v12/Environment_Static_v11/GEO_RD2_Threshold",
+            "mesh": "GEO_RD2_Threshold",
+            "position": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "rotation": [
+                270.019775390625,
+                0.0,
+                0.0
+            ],
+            "boundsCenter": [
+                5.505000114440918,
+                0.037999995052814487,
+                -4.529952857268427e-9
+            ],
+            "boundsSize": [
+                0.3000120222568512,
+                0.07601195573806763,
+                1.1000117063522339
+            ]
+        },
+        {
+            "path": "The Red Door — Stage 1 v12/Environment_Static_v11/GEO_Seat_Row_01_Left",
+            "mesh": "GEO_Seat_Row_01_Left",
+            "position": [
+                2.6999998092651369,
+                0.0,
+                -0.8999999761581421
+            ],
+            "rotation": [
+                270.019775390625,
+                0.0,
+                0.0
+            ],
+            "boundsCenter": [
+                2.7024998664855959,
+                0.8424999117851257,
+                -0.9000000953674316
+            ],
+            "boundsSize": [
+                0.5850031971931458,
+                0.855003297328949,
+                0.8200032711029053
+            ]
+        },
+        {
+            "path": "The Red Door — Stage 1 v12/Environment_Static_v11/GEO_Seat_Row_01_Right",
+            "mesh": "GEO_Seat_Row_01_Right",
+            "position": [
+                2.6999998092651369,
+                0.0,
+                0.8999999761581421
+            ],
+            "rotation": [
+                270.019775390625,
+                0.0,
+                0.0
+            ],
+            "boundsCenter": [
+                2.7024998664855959,
+                0.8424999117851257,
+                0.8999998569488525
+            ],
+            "boundsSize": [
+                0.5850031971931458,
+                0.855003297328949,
+                0.8200032711029053
+            ]
+        },
+        {
+            "path": "The Red Door — Stage 1 v12/Environment_Static_v11/GEO_Seat_Row_02_Left",
+            "mesh": "GEO_Seat_Row_02_Left",
+            "position": [
+                0.8000000715255737,
+                0.0,
+                -0.8999999761581421
+            ],
+            "rotation": [
+                270.019775390625,
+                0.0,
+                0.0
+            ],
+            "boundsCenter": [
+                0.7975000739097595,
+                0.8424999117851257,
+                -0.9000000953674316
+            ],
+            "boundsSize": [
+                0.5850033164024353,
+                0.855003297328949,
+                0.82000333070755
+            ]
+        },
+        {
+            "path": "The Red Door — Stage 1 v12/Environment_Static_v11/GEO_Seat_Row_02_Right",
+            "mesh": "GEO_Seat_Row_02_Right",
+            "position": [
+                0.8000000715255737,
+                0.0,
+                0.8999999761581421
+            ],
+            "rotation": [
+                270.019775390625,
+                0.0,
+                0.0
+            ],
+            "boundsCenter": [
+                0.7975000739097595,
+                0.8424999117851257,
+                0.8999998569488525
+            ],
+            "boundsSize": [
+                0.5850033164024353,
+                0.855003297328949,
+                0.82000333070755
+            ]
+        },
+        {
+            "path": "The Red Door — Stage 1 v12/Environment_Static_v11/GEO_Seat_Row_03_Left",
+            "mesh": "GEO_Seat_Row_03_Left",
+            "position": [
+                0.10000000149011612,
+                0.0,
+                -0.8999999761581421
+            ],
+            "rotation": [
+                270.019775390625,
+                0.0,
+                0.0
+            ],
+            "boundsCenter": [
+                0.10249999910593033,
+                0.8424999117851257,
+                -0.9000000953674316
+            ],
+            "boundsSize": [
+                0.5850031971931458,
+                0.855003297328949,
+                0.8200032711029053
+            ]
+        },
+        {
+            "path": "The Red Door — Stage 1 v12/Environment_Static_v11/GEO_Seat_Row_03_Right",
+            "mesh": "GEO_Seat_Row_03_Right",
+            "position": [
+                0.10000000149011612,
+                0.0,
+                0.8999999761581421
+            ],
+            "rotation": [
+                270.019775390625,
+                0.0,
+                0.0
+            ],
+            "boundsCenter": [
+                0.10249999910593033,
+                0.8424999117851257,
+                0.8999998569488525
+            ],
+            "boundsSize": [
+                0.5850031971931458,
+                0.855003297328949,
+                0.8200032711029053
+            ]
+        },
+        {
+            "path": "The Red Door — Stage 1 v12/Environment_Static_v11/GEO_Seat_Row_04_Left",
+            "mesh": "GEO_Seat_Row_04_Left",
+            "position": [
+                -1.7999998331069947,
+                0.0,
+                -0.9000000953674316
+            ],
+            "rotation": [
+                270.019775390625,
+                0.0,
+                0.0
+            ],
+            "boundsCenter": [
+                -1.802499771118164,
+                0.8424999117851257,
+                -0.9000002145767212
+            ],
+            "boundsSize": [
+                0.5850033164024353,
+                0.855003297328949,
+                0.82000333070755
+            ]
+        },
+        {
+            "path": "The Red Door — Stage 1 v12/Environment_Static_v11/GEO_Seat_Row_04_Right",
+            "mesh": "GEO_Seat_Row_04_Right",
+            "position": [
+                -1.8000000715255738,
+                0.0,
+                0.8999998569488525
+            ],
+            "rotation": [
+                270.019775390625,
+                0.0,
+                0.0
+            ],
+            "boundsCenter": [
+                -1.8025000095367432,
+                0.8424999117851257,
+                0.899999737739563
+            ],
+            "boundsSize": [
+                0.5850033164024353,
+                0.855003297328949,
+                0.82000333070755
+            ]
+        },
+        {
+            "path": "The Red Door — Stage 1 v12/Environment_Static_v11/GEO_Seat_Row_05_Left",
+            "mesh": "GEO_Seat_Row_05_Left",
+            "position": [
+                -2.5,
+                0.0,
+                -0.8999999761581421
+            ],
+            "rotation": [
+                270.019775390625,
+                0.0,
+                0.0
+            ],
+            "boundsCenter": [
+                -2.497499942779541,
+                0.8424999117851257,
+                -0.9000000953674316
+            ],
+            "boundsSize": [
+                0.5850031971931458,
+                0.855003297328949,
+                0.8200032711029053
+            ]
+        },
+        {
+            "path": "The Red Door — Stage 1 v12/Environment_Static_v11/GEO_Seat_Row_05_Right",
+            "mesh": "GEO_Seat_Row_05_Right",
+            "position": [
+                -2.5,
+                0.0,
+                0.8999999761581421
+            ],
+            "rotation": [
+                270.019775390625,
+                0.0,
+                0.0
+            ],
+            "boundsCenter": [
+                -2.497499942779541,
+                0.8424999117851257,
+                0.8999998569488525
+            ],
+            "boundsSize": [
+                0.5850031971931458,
+                0.855003297328949,
+                0.8200032711029053
+            ]
+        },
+        {
+            "path": "The Red Door — Stage 1 v12/Environment_Static_v11/GEO_Seat_Row_06_Left",
+            "mesh": "GEO_Seat_Row_06_Left",
+            "position": [
+                -4.399999618530273,
+                0.0,
+                -0.9000000953674316
+            ],
+            "rotation": [
+                270.019775390625,
+                0.0,
+                0.0
+            ],
+            "boundsCenter": [
+                -4.402499675750732,
+                0.8424999117851257,
+                -0.9000002145767212
+            ],
+            "boundsSize": [
+                0.5850033164024353,
+                0.855003297328949,
+                0.82000333070755
+            ]
+        },
+        {
+            "path": "The Red Door — Stage 1 v12/Environment_Static_v11/GEO_Seat_Row_06_Right",
+            "mesh": "GEO_Seat_Row_06_Right",
+            "position": [
+                -4.400000095367432,
+                0.0,
+                0.8999998569488525
+            ],
+            "rotation": [
+                270.019775390625,
+                0.0,
+                0.0
+            ],
+            "boundsCenter": [
+                -4.402500152587891,
+                0.8424999117851257,
+                0.899999737739563
+            ],
+            "boundsSize": [
+                0.5850033164024353,
+                0.855003297328949,
+                0.82000333070755
+            ]
+        },
+        {
+            "path": "The Red Door — Stage 1 v12/Environment_Static_v11/GEO_SeatSupport_Row_01_Left",
+            "mesh": "GEO_SeatSupport_Row_01_Left",
+            "position": [
+                2.6999998092651369,
+                0.0,
+                -0.8999999761581421
+            ],
+            "rotation": [
+                270.019775390625,
+                0.0,
+                0.0
+            ],
+            "boundsCenter": [
+                2.6999998092651369,
+                0.23124998807907105,
+                -0.8999999761581421
+            ],
+            "boundsSize": [
+                0.4800014793872833,
+                0.4225015342235565,
+                0.6800014972686768
+            ]
+        },
+        {
+            "path": "The Red Door — Stage 1 v12/Environment_Static_v11/GEO_SeatSupport_Row_01_Right",
+            "mesh": "GEO_SeatSupport_Row_01_Right",
+            "position": [
+                2.6999998092651369,
+                0.0,
+                0.8999999761581421
+            ],
+            "rotation": [
+                270.019775390625,
+                0.0,
+                0.0
+            ],
+            "boundsCenter": [
+                2.6999998092651369,
+                0.23124998807907105,
+                0.8999999761581421
+            ],
+            "boundsSize": [
+                0.4800014793872833,
+                0.4225015342235565,
+                0.6800014972686768
+            ]
+        },
+        {
+            "path": "The Red Door — Stage 1 v12/Environment_Static_v11/GEO_SeatSupport_Row_02_Left",
+            "mesh": "GEO_SeatSupport_Row_02_Left",
+            "position": [
+                0.8000000715255737,
+                0.0,
+                -0.8999999761581421
+            ],
+            "rotation": [
+                270.019775390625,
+                0.0,
+                0.0
+            ],
+            "boundsCenter": [
+                0.8000000715255737,
+                0.23124998807907105,
+                -0.8999999761581421
+            ],
+            "boundsSize": [
+                0.4800015687942505,
+                0.4225015342235565,
+                0.6800015568733215
+            ]
+        },
+        {
+            "path": "The Red Door — Stage 1 v12/Environment_Static_v11/GEO_SeatSupport_Row_02_Right",
+            "mesh": "GEO_SeatSupport_Row_02_Right",
+            "position": [
+                0.8000000715255737,
+                0.0,
+                0.8999999761581421
+            ],
+            "rotation": [
+                270.019775390625,
+                0.0,
+                0.0
+            ],
+            "boundsCenter": [
+                0.8000000715255737,
+                0.23124998807907105,
+                0.8999999761581421
+            ],
+            "boundsSize": [
+                0.4800015687942505,
+                0.4225015342235565,
+                0.6800015568733215
+            ]
+        },
+        {
+            "path": "The Red Door — Stage 1 v12/Environment_Static_v11/GEO_SeatSupport_Row_03_Left",
+            "mesh": "GEO_SeatSupport_Row_03_Left",
+            "position": [
+                0.10000000149011612,
+                0.0,
+                -0.8999999761581421
+            ],
+            "rotation": [
+                270.019775390625,
+                0.0,
+                0.0
+            ],
+            "boundsCenter": [
+                0.10000000149011612,
+                0.23124998807907105,
+                -0.8999999761581421
+            ],
+            "boundsSize": [
+                0.4800014793872833,
+                0.4225015342235565,
+                0.6800014972686768
+            ]
+        },
+        {
+            "path": "The Red Door — Stage 1 v12/Environment_Static_v11/GEO_SeatSupport_Row_03_Right",
+            "mesh": "GEO_SeatSupport_Row_03_Right",
+            "position": [
+                0.10000000149011612,
+                0.0,
+                0.8999999761581421
+            ],
+            "rotation": [
+                270.019775390625,
+                0.0,
+                0.0
+            ],
+            "boundsCenter": [
+                0.10000000149011612,
+                0.23124998807907105,
+                0.8999999761581421
+            ],
+            "boundsSize": [
+                0.4800014793872833,
+                0.4225015342235565,
+                0.6800014972686768
+            ]
+        },
+        {
+            "path": "The Red Door — Stage 1 v12/Environment_Static_v11/GEO_SeatSupport_Row_04_Left",
+            "mesh": "GEO_SeatSupport_Row_04_Left",
+            "position": [
+                -1.7999998331069947,
+                0.0,
+                -0.9000000953674316
+            ],
+            "rotation": [
+                270.019775390625,
+                0.0,
+                0.0
+            ],
+            "boundsCenter": [
+                -1.7999998331069947,
+                0.23124998807907105,
+                -0.9000000953674316
+            ],
+            "boundsSize": [
+                0.4800015687942505,
+                0.4225015342235565,
+                0.6800015568733215
+            ]
+        },
+        {
+            "path": "The Red Door — Stage 1 v12/Environment_Static_v11/GEO_SeatSupport_Row_04_Right",
+            "mesh": "GEO_SeatSupport_Row_04_Right",
+            "position": [
+                -1.8000000715255738,
+                0.0,
+                0.8999998569488525
+            ],
+            "rotation": [
+                270.019775390625,
+                0.0,
+                0.0
+            ],
+            "boundsCenter": [
+                -1.8000000715255738,
+                0.23124998807907105,
+                0.8999998569488525
+            ],
+            "boundsSize": [
+                0.4800015687942505,
+                0.4225015342235565,
+                0.6800015568733215
+            ]
+        },
+        {
+            "path": "The Red Door — Stage 1 v12/Environment_Static_v11/GEO_SeatSupport_Row_05_Left",
+            "mesh": "GEO_SeatSupport_Row_05_Left",
+            "position": [
+                -2.5,
+                0.0,
+                -0.8999999761581421
+            ],
+            "rotation": [
+                270.019775390625,
+                0.0,
+                0.0
+            ],
+            "boundsCenter": [
+                -2.5,
+                0.23124998807907105,
+                -0.8999999761581421
+            ],
+            "boundsSize": [
+                0.4800014793872833,
+                0.4225015342235565,
+                0.6800014972686768
+            ]
+        },
+        {
+            "path": "The Red Door — Stage 1 v12/Environment_Static_v11/GEO_SeatSupport_Row_05_Right",
+            "mesh": "GEO_SeatSupport_Row_05_Right",
+            "position": [
+                -2.5,
+                0.0,
+                0.8999999761581421
+            ],
+            "rotation": [
+                270.019775390625,
+                0.0,
+                0.0
+            ],
+            "boundsCenter": [
+                -2.5,
+                0.23124998807907105,
+                0.8999999761581421
+            ],
+            "boundsSize": [
+                0.4800014793872833,
+                0.4225015342235565,
+                0.6800014972686768
+            ]
+        },
+        {
+            "path": "The Red Door — Stage 1 v12/Environment_Static_v11/GEO_SeatSupport_Row_06_Left",
+            "mesh": "GEO_SeatSupport_Row_06_Left",
+            "position": [
+                -4.399999618530273,
+                0.0,
+                -0.9000000953674316
+            ],
+            "rotation": [
+                270.019775390625,
+                0.0,
+                0.0
+            ],
+            "boundsCenter": [
+                -4.399999618530273,
+                0.23124998807907105,
+                -0.9000000953674316
+            ],
+            "boundsSize": [
+                0.4800015687942505,
+                0.4225015342235565,
+                0.6800015568733215
+            ]
+        },
+        {
+            "path": "The Red Door — Stage 1 v12/Environment_Static_v11/GEO_SeatSupport_Row_06_Right",
+            "mesh": "GEO_SeatSupport_Row_06_Right",
+            "position": [
+                -4.400000095367432,
+                0.0,
+                0.8999998569488525
+            ],
+            "rotation": [
+                270.019775390625,
+                0.0,
+                0.0
+            ],
+            "boundsCenter": [
+                -4.400000095367432,
+                0.23124998807907105,
+                0.8999998569488525
+            ],
+            "boundsSize": [
+                0.4800015687942505,
+                0.4225015342235565,
+                0.6800015568733215
+            ]
+        },
+        {
+            "path": "The Red Door — Stage 1 v12/Environment_Static_v11/GEO_Vestibule_Ceiling",
+            "mesh": "GEO_Vestibule_Ceiling",
+            "position": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "rotation": [
+                270.019775390625,
+                0.0,
+                0.0
+            ],
+            "boundsCenter": [
+                -6.619999885559082,
+                2.5999996662139894,
+                -3.099441414633475e-7
+            ],
+            "boundsSize": [
+                2.0000195503234865,
+                0.10002005845308304,
+                2.8400192260742189
+            ]
+        },
+        {
+            "path": "The Red Door — Stage 1 v12/Environment_Static_v11/GEO_Vestibule_Floor",
+            "mesh": "GEO_Vestibule_Floor",
+            "position": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "rotation": [
+                270.019775390625,
+                0.0,
+                0.0
+            ],
+            "boundsCenter": [
+                -6.619999885559082,
+                -0.059999994933605197,
+                7.1525572131747598e-9
+            ],
+            "boundsSize": [
+                2.0000171661376955,
+                0.12001756578683853,
+                2.8400168418884279
+            ]
+        },
+        {
+            "path": "The Red Door — Stage 1 v12/Environment_Static_v11/GEO_Vestibule_MechanicalRefs",
+            "mesh": "GEO_Vestibule_MechanicalRefs",
+            "position": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "rotation": [
+                270.019775390625,
+                0.0,
+                0.0
+            ],
+            "boundsCenter": [
+                -6.359999656677246,
+                1.21999990940094,
+                -1.4543533666255826e-7
+            ],
+            "boundsSize": [
+                1.1800169944763184,
+                1.7200171947479249,
+                2.4400172233581545
+            ]
+        },
+        {
+            "path": "The Red Door — Stage 1 v12/Environment_Static_v11/GEO_Vestibule_RearFrame",
+            "mesh": "GEO_Vestibule_RearFrame",
+            "position": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "rotation": [
+                270.019775390625,
+                0.0,
+                0.0
+            ],
+            "boundsCenter": [
+                -7.679999828338623,
+                1.2749998569488526,
+                -1.5199184133507516e-7
+            ],
+            "boundsSize": [
+                0.12001951038837433,
+                2.5500195026397707,
+                2.6000194549560549
+            ]
+        },
+        {
+            "path": "The Red Door — Stage 1 v12/Environment_Static_v11/GEO_Vestibule_Wall_Left",
+            "mesh": "GEO_Vestibule_Wall_Left",
+            "position": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "rotation": [
+                270.019775390625,
+                0.0,
+                0.0
+            ],
+            "boundsCenter": [
+                -6.619999885559082,
+                1.274999737739563,
+                -1.3422499895095826
+            ],
+            "boundsSize": [
+                2.0000193119049074,
+                2.5500190258026125,
+                0.15551961958408357
+            ]
+        },
+        {
+            "path": "The Red Door — Stage 1 v12/Environment_Static_v11/GEO_Vestibule_Wall_Right",
+            "mesh": "GEO_Vestibule_Wall_Right",
+            "position": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "rotation": [
+                270.019775390625,
+                0.0,
+                0.0
+            ],
+            "boundsCenter": [
+                -6.619999885559082,
+                1.274999976158142,
+                1.3422497510910035
+            ],
+            "boundsSize": [
+                2.0000193119049074,
+                2.5500190258026125,
+                0.15551961958408357
+            ]
+        },
+        {
+            "path": "The Red Door — Stage 1 v12/Environment_Static_v11/GEO_Wall_Left",
+            "mesh": "GEO_Wall_Left",
+            "position": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "rotation": [
+                270.019775390625,
+                0.0,
+                0.0
+            ],
+            "boundsCenter": [
+                0.0,
+                1.2999995946884156,
+                -1.5099999904632569
+            ],
+            "boundsSize": [
+                11.000020980834961,
+                2.60002064704895,
+                0.120021291077137
+            ]
+        },
+        {
+            "path": "The Red Door — Stage 1 v12/Environment_Static_v11/GEO_Wall_Right",
+            "mesh": "GEO_Wall_Right",
+            "position": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "rotation": [
+                270.019775390625,
+                0.0,
+                0.0
+            ],
+            "boundsCenter": [
+                0.0,
+                1.3000000715255738,
+                1.5099997520446778
+            ],
+            "boundsSize": [
+                11.000020980834961,
+                2.60002064704895,
+                0.120021291077137
+            ]
+        },
+        {
+            "path": "The Red Door — Stage 1 v12/Environment_Static_v11/GEO_WallPanels_Lower",
+            "mesh": "GEO_WallPanels_Lower",
+            "position": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "rotation": [
+                270.019775390625,
+                0.0,
+                0.0
+            ],
+            "boundsCenter": [
+                0.0,
+                0.4099999666213989,
+                -4.887580828949467e-8
+            ],
+            "boundsSize": [
+                10.720020294189454,
+                0.5600207448005676,
+                2.9000203609466554
+            ]
+        },
+        {
+            "path": "The Red Door — Stage 1 v12/Environment_Static_v11/GEO_WallPanels_Upper",
+            "mesh": "GEO_WallPanels_Upper",
+            "position": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "rotation": [
+                270.019775390625,
+                0.0,
+                0.0
+            ],
+            "boundsCenter": [
+                0.0,
+                2.2699997425079347,
+                -2.706050850065367e-7
+            ],
+            "boundsSize": [
+                10.720020294189454,
+                0.40002086758613589,
+                2.9000203609466554
+            ]
+        },
+        {
+            "path": "The Red Door — Stage 1 v12/Environment_Static_v11/GEO_Window_BelowTrim",
+            "mesh": "GEO_Window_BelowTrim",
+            "position": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "rotation": [
+                270.019775390625,
+                0.0,
+                0.0
+            ],
+            "boundsCenter": [
+                0.0,
+                0.7149999737739563,
+                -8.523464600784792e-8
+            ],
+            "boundsSize": [
+                10.720020294189454,
+                0.06502077728509903,
+                2.8700201511383058
+            ]
+        },
+        {
+            "path": "The Red Door — Stage 1 v12/Environment_Static_v11/GEO_Window_Left_01",
+            "mesh": "GEO_Window_Left_01",
+            "position": [
+                4.199999809265137,
+                0.0,
+                -1.4579999446868897
+            ],
+            "rotation": [
+                270.019775390625,
+                0.0,
+                0.0
+            ],
+            "boundsCenter": [
+                4.199999809265137,
+                1.3599998950958253,
+                -1.4580000638961793
+            ],
+            "boundsSize": [
+                1.350005030632019,
+                1.2000049352645875,
+                0.018005166202783586
+            ]
+        },
+        {
+            "path": "The Red Door — Stage 1 v12/Environment_Static_v11/GEO_Window_Left_02",
+            "mesh": "GEO_Window_Left_02",
+            "position": [
+                2.0999999046325685,
+                0.0,
+                -1.4579999446868897
+            ],
+            "rotation": [
+                270.019775390625,
+                0.0,
+                0.0
+            ],
+            "boundsCenter": [
+                2.0999999046325685,
+                1.3599998950958253,
+                -1.4580000638961793
+            ],
+            "boundsSize": [
+                1.350005030632019,
+                1.2000049352645875,
+                0.018005166202783586
+            ]
+        },
+        {
+            "path": "The Red Door — Stage 1 v12/Environment_Static_v11/GEO_Window_Left_03",
+            "mesh": "GEO_Window_Left_03",
+            "position": [
+                0.0,
+                0.0,
+                -1.4579999446868897
+            ],
+            "rotation": [
+                270.019775390625,
+                0.0,
+                0.0
+            ],
+            "boundsCenter": [
+                0.0,
+                1.3599998950958253,
+                -1.4580000638961793
+            ],
+            "boundsSize": [
+                1.350005030632019,
+                1.2000049352645875,
+                0.018005166202783586
+            ]
+        },
+        {
+            "path": "The Red Door — Stage 1 v12/Environment_Static_v11/GEO_Window_Left_04",
+            "mesh": "GEO_Window_Left_04",
+            "position": [
+                -2.0999999046325685,
+                0.0,
+                -1.4579999446868897
+            ],
+            "rotation": [
+                270.019775390625,
+                0.0,
+                0.0
+            ],
+            "boundsCenter": [
+                -2.0999999046325685,
+                1.3599998950958253,
+                -1.4580000638961793
+            ],
+            "boundsSize": [
+                1.350005030632019,
+                1.2000049352645875,
+                0.018005166202783586
+            ]
+        },
+        {
+            "path": "The Red Door — Stage 1 v12/Environment_Static_v11/GEO_Window_Left_05",
+            "mesh": "GEO_Window_Left_05",
+            "position": [
+                -4.199999809265137,
+                0.0,
+                -1.4579999446868897
+            ],
+            "rotation": [
+                270.019775390625,
+                0.0,
+                0.0
+            ],
+            "boundsCenter": [
+                -4.199999809265137,
+                1.3599998950958253,
+                -1.4580000638961793
+            ],
+            "boundsSize": [
+                1.350005030632019,
+                1.2000049352645875,
+                0.018005166202783586
+            ]
+        },
+        {
+            "path": "The Red Door — Stage 1 v12/Environment_Static_v11/GEO_Window_Right_01",
+            "mesh": "GEO_Window_Right_01",
+            "position": [
+                4.199999809265137,
+                0.0,
+                1.4579999446868897
+            ],
+            "rotation": [
+                270.019775390625,
+                0.0,
+                0.0
+            ],
+            "boundsCenter": [
+                4.199999809265137,
+                1.3599998950958253,
+                1.4579998254776
+            ],
+            "boundsSize": [
+                1.350005030632019,
+                1.2000049352645875,
+                0.018005166202783586
+            ]
+        },
+        {
+            "path": "The Red Door — Stage 1 v12/Environment_Static_v11/GEO_Window_Right_02",
+            "mesh": "GEO_Window_Right_02",
+            "position": [
+                2.0999999046325685,
+                0.0,
+                1.4579999446868897
+            ],
+            "rotation": [
+                270.019775390625,
+                0.0,
+                0.0
+            ],
+            "boundsCenter": [
+                2.0999999046325685,
+                1.3599998950958253,
+                1.4579998254776
+            ],
+            "boundsSize": [
+                1.350005030632019,
+                1.2000049352645875,
+                0.018005166202783586
+            ]
+        },
+        {
+            "path": "The Red Door — Stage 1 v12/Environment_Static_v11/GEO_Window_Right_03",
+            "mesh": "GEO_Window_Right_03",
+            "position": [
+                0.0,
+                0.0,
+                1.4579999446868897
+            ],
+            "rotation": [
+                270.019775390625,
+                0.0,
+                0.0
+            ],
+            "boundsCenter": [
+                0.0,
+                1.3599998950958253,
+                1.4579998254776
+            ],
+            "boundsSize": [
+                1.350005030632019,
+                1.2000049352645875,
+                0.018005166202783586
+            ]
+        },
+        {
+            "path": "The Red Door — Stage 1 v12/Environment_Static_v11/GEO_Window_Right_04",
+            "mesh": "GEO_Window_Right_04",
+            "position": [
+                -2.0999999046325685,
+                0.0,
+                1.4579999446868897
+            ],
+            "rotation": [
+                270.019775390625,
+                0.0,
+                0.0
+            ],
+            "boundsCenter": [
+                -2.0999999046325685,
+                1.3599998950958253,
+                1.4579998254776
+            ],
+            "boundsSize": [
+                1.350005030632019,
+                1.2000049352645875,
+                0.018005166202783586
+            ]
+        },
+        {
+            "path": "The Red Door — Stage 1 v12/Environment_Static_v11/GEO_Window_Right_05",
+            "mesh": "GEO_Window_Right_05",
+            "position": [
+                -4.199999809265137,
+                0.0,
+                1.4579999446868897
+            ],
+            "rotation": [
+                270.019775390625,
+                0.0,
+                0.0
+            ],
+            "boundsCenter": [
+                -4.199999809265137,
+                1.3599998950958253,
+                1.4579998254776
+            ],
+            "boundsSize": [
+                1.350005030632019,
+                1.2000049352645875,
+                0.018005166202783586
+            ]
+        },
+        {
+            "path": "The Red Door — Stage 1 v12/Environment_Static_v11/GEO_WindowFrame_Left_01",
+            "mesh": "GEO_WindowFrame_Left_01",
+            "position": [
+                4.199999809265137,
+                0.0,
+                -1.4329999685287476
+            ],
+            "rotation": [
+                270.019775390625,
+                0.0,
+                0.0
+            ],
+            "boundsCenter": [
+                4.199999809265137,
+                1.3599998950958253,
+                -1.433000087738037
+            ],
+            "boundsSize": [
+                1.3500051498413087,
+                1.3100051879882813,
+                0.03400528430938721
+            ]
+        },
+        {
+            "path": "The Red Door — Stage 1 v12/Environment_Static_v11/GEO_WindowFrame_Left_02",
+            "mesh": "GEO_WindowFrame_Left_02",
+            "position": [
+                2.0999999046325685,
+                0.0,
+                -1.4329999685287476
+            ],
+            "rotation": [
+                270.019775390625,
+                0.0,
+                0.0
+            ],
+            "boundsCenter": [
+                2.0999999046325685,
+                1.3599998950958253,
+                -1.433000087738037
+            ],
+            "boundsSize": [
+                1.3500051498413087,
+                1.3100051879882813,
+                0.03400528430938721
+            ]
+        },
+        {
+            "path": "The Red Door — Stage 1 v12/Environment_Static_v11/GEO_WindowFrame_Left_03",
+            "mesh": "GEO_WindowFrame_Left_03",
+            "position": [
+                0.0,
+                0.0,
+                -1.4329999685287476
+            ],
+            "rotation": [
+                270.019775390625,
+                0.0,
+                0.0
+            ],
+            "boundsCenter": [
+                0.0,
+                1.3599998950958253,
+                -1.433000087738037
+            ],
+            "boundsSize": [
+                1.3500051498413087,
+                1.3100051879882813,
+                0.03400528430938721
+            ]
+        },
+        {
+            "path": "The Red Door — Stage 1 v12/Environment_Static_v11/GEO_WindowFrame_Left_04",
+            "mesh": "GEO_WindowFrame_Left_04",
+            "position": [
+                -2.0999999046325685,
+                0.0,
+                -1.4329999685287476
+            ],
+            "rotation": [
+                270.019775390625,
+                0.0,
+                0.0
+            ],
+            "boundsCenter": [
+                -2.0999999046325685,
+                1.3599998950958253,
+                -1.433000087738037
+            ],
+            "boundsSize": [
+                1.3500051498413087,
+                1.3100051879882813,
+                0.03400528430938721
+            ]
+        },
+        {
+            "path": "The Red Door — Stage 1 v12/Environment_Static_v11/GEO_WindowFrame_Left_05",
+            "mesh": "GEO_WindowFrame_Left_05",
+            "position": [
+                -4.199999809265137,
+                0.0,
+                -1.4329999685287476
+            ],
+            "rotation": [
+                270.019775390625,
+                0.0,
+                0.0
+            ],
+            "boundsCenter": [
+                -4.199999809265137,
+                1.3599998950958253,
+                -1.433000087738037
+            ],
+            "boundsSize": [
+                1.3500051498413087,
+                1.3100051879882813,
+                0.03400528430938721
+            ]
+        },
+        {
+            "path": "The Red Door — Stage 1 v12/Environment_Static_v11/GEO_WindowFrame_Right_01",
+            "mesh": "GEO_WindowFrame_Right_01",
+            "position": [
+                4.199999809265137,
+                0.0,
+                1.4329999685287476
+            ],
+            "rotation": [
+                270.019775390625,
+                0.0,
+                0.0
+            ],
+            "boundsCenter": [
+                4.199999809265137,
+                1.3599998950958253,
+                1.432999849319458
+            ],
+            "boundsSize": [
+                1.3500051498413087,
+                1.3100051879882813,
+                0.03400528430938721
+            ]
+        },
+        {
+            "path": "The Red Door — Stage 1 v12/Environment_Static_v11/GEO_WindowFrame_Right_02",
+            "mesh": "GEO_WindowFrame_Right_02",
+            "position": [
+                2.0999999046325685,
+                0.0,
+                1.4329999685287476
+            ],
+            "rotation": [
+                270.019775390625,
+                0.0,
+                0.0
+            ],
+            "boundsCenter": [
+                2.0999999046325685,
+                1.3599998950958253,
+                1.432999849319458
+            ],
+            "boundsSize": [
+                1.3500051498413087,
+                1.3100051879882813,
+                0.03400528430938721
+            ]
+        },
+        {
+            "path": "The Red Door — Stage 1 v12/Environment_Static_v11/GEO_WindowFrame_Right_03",
+            "mesh": "GEO_WindowFrame_Right_03",
+            "position": [
+                0.0,
+                0.0,
+                1.4329999685287476
+            ],
+            "rotation": [
+                270.019775390625,
+                0.0,
+                0.0
+            ],
+            "boundsCenter": [
+                0.0,
+                1.3599998950958253,
+                1.432999849319458
+            ],
+            "boundsSize": [
+                1.3500051498413087,
+                1.3100051879882813,
+                0.03400528430938721
+            ]
+        },
+        {
+            "path": "The Red Door — Stage 1 v12/Environment_Static_v11/GEO_WindowFrame_Right_04",
+            "mesh": "GEO_WindowFrame_Right_04",
+            "position": [
+                -2.0999999046325685,
+                0.0,
+                1.4329999685287476
+            ],
+            "rotation": [
+                270.019775390625,
+                0.0,
+                0.0
+            ],
+            "boundsCenter": [
+                -2.0999999046325685,
+                1.3599998950958253,
+                1.432999849319458
+            ],
+            "boundsSize": [
+                1.3500051498413087,
+                1.3100051879882813,
+                0.03400528430938721
+            ]
+        },
+        {
+            "path": "The Red Door — Stage 1 v12/Environment_Static_v11/GEO_WindowFrame_Right_05",
+            "mesh": "GEO_WindowFrame_Right_05",
+            "position": [
+                -4.199999809265137,
+                0.0,
+                1.4329999685287476
+            ],
+            "rotation": [
+                270.019775390625,
+                0.0,
+                0.0
+            ],
+            "boundsCenter": [
+                -4.199999809265137,
+                1.3599998950958253,
+                1.432999849319458
+            ],
+            "boundsSize": [
+                1.3500051498413087,
+                1.3100051879882813,
+                0.03400528430938721
+            ]
+        }
+    ],
+    "propRenderers": [
+        {
+            "path": "The Red Door — Stage 1 v12/Props_Static_v11/GEO_Carriage_InfoPanel",
+            "mesh": "GEO_Carriage_InfoPanel",
+            "position": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "rotation": [
+                270.019775390625,
+                0.0,
+                0.0
+            ],
+            "boundsCenter": [
+                -4.220000267028809,
+                2.25,
+                1.4249995946884156
+            ],
+            "boundsSize": [
+                0.7800135016441345,
+                0.24001306295394898,
+                0.03001343086361885
+            ]
+        },
+        {
+            "path": "The Red Door — Stage 1 v12/Props_Static_v11/GEO_Carriage_NumberPanel",
+            "mesh": "GEO_Carriage_NumberPanel",
+            "position": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "rotation": [
+                270.019775390625,
+                0.0,
+                0.0
+            ],
+            "boundsCenter": [
+                4.279999732971191,
+                2.229999542236328,
+                -1.4250000715255738
+            ],
+            "boundsSize": [
+                0.5600059628486633,
+                0.22000601887702943,
+                0.030006123706698419
+            ]
+        },
+        {
+            "path": "The Red Door — Stage 1 v12/Props_Static_v11/GEO_Luggage_Cardboard_01",
+            "mesh": "GEO_Luggage_Cardboard_01",
+            "position": [
+                0.15000000596046449,
+                1.9700000286102296,
+                -1.159999966621399
+            ],
+            "rotation": [
+                270.019775390625,
+                0.0,
+                0.0
+            ],
+            "boundsCenter": [
+                0.15000000596046449,
+                2.16225004196167,
+                -1.159999966621399
+            ],
+            "boundsSize": [
+                0.5014259815216065,
+                0.38450124859809878,
+                0.40347370505332949
+            ]
+        },
+        {
+            "path": "The Red Door — Stage 1 v12/Props_Static_v11/GEO_Luggage_Cardboard_02",
+            "mesh": "GEO_Luggage_Cardboard_02",
+            "position": [
+                -1.100000023841858,
+                1.9700000286102296,
+                1.159999966621399
+            ],
+            "rotation": [
+                270.019775390625,
+                0.0,
+                0.0
+            ],
+            "boundsCenter": [
+                -1.100000023841858,
+                2.16225004196167,
+                1.159999966621399
+            ],
+            "boundsSize": [
+                0.5021251440048218,
+                0.38450124859809878,
+                0.41225436329841616
+            ]
+        },
+        {
+            "path": "The Red Door — Stage 1 v12/Props_Static_v11/GEO_Luggage_Suitcase_01",
+            "mesh": "GEO_Luggage_Suitcase_01",
+            "position": [
+                3.75,
+                1.9700000286102296,
+                -1.159999966621399
+            ],
+            "rotation": [
+                270.019775390625,
+                0.0,
+                0.0
+            ],
+            "boundsCenter": [
+                3.75,
+                2.1862499713897707,
+                -1.159999966621399
+            ],
+            "boundsSize": [
+                0.6348201036453247,
+                0.4325014352798462,
+                0.36916419863700869
+            ]
+        },
+        {
+            "path": "The Red Door — Stage 1 v12/Props_Static_v11/GEO_Luggage_Suitcase_02",
+            "mesh": "GEO_Luggage_Suitcase_02",
+            "position": [
+                -2.6500000953674318,
+                1.9700000286102296,
+                1.159999966621399
+            ],
+            "rotation": [
+                270.019775390625,
+                0.0,
+                0.0
+            ],
+            "boundsCenter": [
+                -2.6500000953674318,
+                2.1862499713897707,
+                1.159999966621399
+            ],
+            "boundsSize": [
+                0.6375945210456848,
+                0.4325014352798462,
+                0.3748883306980133
+            ]
+        },
+        {
+            "path": "The Red Door — Stage 1 v12/Props_Static_v11/GEO_Luggage_TravelBag_01",
+            "mesh": "GEO_Luggage_TravelBag_01",
+            "position": [
+                1.649999976158142,
+                1.9700000286102296,
+                -1.159999966621399
+            ],
+            "rotation": [
+                270.019775390625,
+                0.0,
+                0.0
+            ],
+            "boundsCenter": [
+                1.649999976158142,
+                2.1862499713897707,
+                -1.159999966621399
+            ],
+            "boundsSize": [
+                0.5831437706947327,
+                0.4325014054775238,
+                0.38142862915992739
+            ]
+        },
+        {
+            "path": "The Red Door — Stage 1 v12/Props_Static_v11/GEO_Luggage_TravelBag_02",
+            "mesh": "GEO_Luggage_TravelBag_02",
+            "position": [
+                -3.75,
+                1.9700000286102296,
+                -1.159999966621399
+            ],
+            "rotation": [
+                270.019775390625,
+                0.0,
+                0.0
+            ],
+            "boundsCenter": [
+                -3.75,
+                2.1862499713897707,
+                -1.159999966621399
+            ],
+            "boundsSize": [
+                0.5720301270484924,
+                0.4325013756752014,
+                0.3610037565231323
+            ]
+        },
+        {
+            "path": "The Red Door — Stage 1 v12/Props_Static_v11/GEO_Luggage_WovenBag_01",
+            "mesh": "GEO_Luggage_WovenBag_01",
+            "position": [
+                -4.550000190734863,
+                1.9700000286102296,
+                -1.159999966621399
+            ],
+            "rotation": [
+                270.019775390625,
+                0.0,
+                0.0
+            ],
+            "boundsCenter": [
+                -4.550000190734863,
+                2.200000047683716,
+                -1.159999966621399
+            ],
+            "boundsSize": [
+                0.6127980351448059,
+                0.46000149846076968,
+                0.3825874626636505
+            ]
+        },
+        {
+            "path": "The Red Door — Stage 1 v12/Props_Static_v11/GEO_Table_Left_01",
+            "mesh": "GEO_Table_Left_01",
+            "position": [
+                1.7499998807907105,
+                0.0,
+                -1.1299999952316285
+            ],
+            "rotation": [
+                270.019775390625,
+                0.0,
+                0.0
+            ],
+            "boundsCenter": [
+                1.7499998807907105,
+                0.7399999499320984,
+                -1.130000114440918
+            ],
+            "boundsSize": [
+                0.8024021983146668,
+                0.05500229075551033,
+                0.5152021646499634
+            ]
+        },
+        {
+            "path": "The Red Door — Stage 1 v12/Props_Static_v11/GEO_Table_Left_02",
+            "mesh": "GEO_Table_Left_02",
+            "position": [
+                -0.8499999642372131,
+                0.0,
+                -1.1799999475479127
+            ],
+            "rotation": [
+                270.019775390625,
+                0.0,
+                0.0
+            ],
+            "boundsCenter": [
+                -0.8499999642372131,
+                0.7399999499320984,
+                -1.1800000667572022
+            ],
+            "boundsSize": [
+                0.8024021983146668,
+                0.05500229075551033,
+                0.5152021646499634
+            ]
+        },
+        {
+            "path": "The Red Door — Stage 1 v12/Props_Static_v11/GEO_Table_Left_03",
+            "mesh": "GEO_Table_Left_03",
+            "position": [
+                -3.450000047683716,
+                0.0,
+                -1.1799999475479127
+            ],
+            "rotation": [
+                270.019775390625,
+                0.0,
+                0.0
+            ],
+            "boundsCenter": [
+                -3.450000047683716,
+                0.7399999499320984,
+                -1.1800000667572022
+            ],
+            "boundsSize": [
+                0.8024021983146668,
+                0.05500229075551033,
+                0.5152021646499634
+            ]
+        },
+        {
+            "path": "The Red Door — Stage 1 v12/Props_Static_v11/GEO_Table_Right_01",
+            "mesh": "GEO_Table_Right_01",
+            "position": [
+                1.7499998807907105,
+                0.0,
+                1.1799999475479127
+            ],
+            "rotation": [
+                270.019775390625,
+                0.0,
+                0.0
+            ],
+            "boundsCenter": [
+                1.7499998807907105,
+                0.7399999499320984,
+                1.179999828338623
+            ],
+            "boundsSize": [
+                0.8024021983146668,
+                0.05500229075551033,
+                0.5152021646499634
+            ]
+        },
+        {
+            "path": "The Red Door — Stage 1 v12/Props_Static_v11/GEO_Table_Right_02",
+            "mesh": "GEO_Table_Right_02",
+            "position": [
+                -0.8499999642372131,
+                0.0,
+                1.1799999475479127
+            ],
+            "rotation": [
+                270.019775390625,
+                0.0,
+                0.0
+            ],
+            "boundsCenter": [
+                -0.8499999642372131,
+                0.7399999499320984,
+                1.179999828338623
+            ],
+            "boundsSize": [
+                0.8024021983146668,
+                0.05500229075551033,
+                0.5152021646499634
+            ]
+        },
+        {
+            "path": "The Red Door — Stage 1 v12/Props_Static_v11/GEO_Table_Right_03",
+            "mesh": "GEO_Table_Right_03",
+            "position": [
+                -3.450000047683716,
+                0.0,
+                1.1799999475479127
+            ],
+            "rotation": [
+                270.019775390625,
+                0.0,
+                0.0
+            ],
+            "boundsCenter": [
+                -3.450000047683716,
+                0.7399999499320984,
+                1.179999828338623
+            ],
+            "boundsSize": [
+                0.8024021983146668,
+                0.05500229075551033,
+                0.5152021646499634
+            ]
+        },
+        {
+            "path": "The Red Door — Stage 1 v12/Props_Static_v11/GEO_TableSupport_Left_01",
+            "mesh": "GEO_TableSupport_Left_01",
+            "position": [
+                1.7499998807907105,
+                0.0,
+                -1.1299999952316285
+            ],
+            "rotation": [
+                270.019775390625,
+                0.0,
+                0.0
+            ],
+            "boundsCenter": [
+                1.7499998807907105,
+                0.5337499380111694,
+                -1.130000114440918
+            ],
+            "boundsSize": [
+                0.3200016915798187,
+                0.39250168204307558,
+                0.07500173896551132
+            ]
+        },
+        {
+            "path": "The Red Door — Stage 1 v12/Props_Static_v11/GEO_TableSupport_Left_02",
+            "mesh": "GEO_TableSupport_Left_02",
+            "position": [
+                -0.8499999642372131,
+                0.0,
+                -1.1799999475479127
+            ],
+            "rotation": [
+                270.019775390625,
+                0.0,
+                0.0
+            ],
+            "boundsCenter": [
+                -0.8499999642372131,
+                0.5337499380111694,
+                -1.1800000667572022
+            ],
+            "boundsSize": [
+                0.3200016915798187,
+                0.39250168204307558,
+                0.07500173896551132
+            ]
+        },
+        {
+            "path": "The Red Door — Stage 1 v12/Props_Static_v11/GEO_TableSupport_Left_03",
+            "mesh": "GEO_TableSupport_Left_03",
+            "position": [
+                -3.450000047683716,
+                0.0,
+                -1.1799999475479127
+            ],
+            "rotation": [
+                270.019775390625,
+                0.0,
+                0.0
+            ],
+            "boundsCenter": [
+                -3.450000047683716,
+                0.5337499380111694,
+                -1.1800000667572022
+            ],
+            "boundsSize": [
+                0.3200016915798187,
+                0.39250168204307558,
+                0.07500173896551132
+            ]
+        },
+        {
+            "path": "The Red Door — Stage 1 v12/Props_Static_v11/GEO_TableSupport_Right_01",
+            "mesh": "GEO_TableSupport_Right_01",
+            "position": [
+                1.7499998807907105,
+                0.0,
+                1.1799999475479127
+            ],
+            "rotation": [
+                270.019775390625,
+                0.0,
+                0.0
+            ],
+            "boundsCenter": [
+                1.7499998807907105,
+                0.5337499380111694,
+                1.179999828338623
+            ],
+            "boundsSize": [
+                0.3200016915798187,
+                0.39250168204307558,
+                0.07500173896551132
+            ]
+        },
+        {
+            "path": "The Red Door — Stage 1 v12/Props_Static_v11/GEO_TableSupport_Right_02",
+            "mesh": "GEO_TableSupport_Right_02",
+            "position": [
+                -0.8499999642372131,
+                0.0,
+                1.1799999475479127
+            ],
+            "rotation": [
+                270.019775390625,
+                0.0,
+                0.0
+            ],
+            "boundsCenter": [
+                -0.8499999642372131,
+                0.5337499380111694,
+                1.179999828338623
+            ],
+            "boundsSize": [
+                0.3200016915798187,
+                0.39250168204307558,
+                0.07500173896551132
+            ]
+        },
+        {
+            "path": "The Red Door — Stage 1 v12/Props_Static_v11/GEO_TableSupport_Right_03",
+            "mesh": "GEO_TableSupport_Right_03",
+            "position": [
+                -3.450000047683716,
+                0.0,
+                1.1799999475479127
+            ],
+            "rotation": [
+                270.019775390625,
+                0.0,
+                0.0
+            ],
+            "boundsCenter": [
+                -3.450000047683716,
+                0.5337499380111694,
+                1.179999828338623
+            ],
+            "boundsSize": [
+                0.3200016915798187,
+                0.39250168204307558,
+                0.07500173896551132
+            ]
+        },
+        {
+            "path": "The Red Door — Stage 1 v12/Props_Static_v11/GEO_Utility_Bin",
+            "mesh": "GEO_Utility_Bin",
+            "position": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "rotation": [
+                270.019775390625,
+                0.0,
+                0.0
+            ],
+            "boundsCenter": [
+                4.779999732971191,
+                0.3199998140335083,
+                -1.159999966621399
+            ],
+            "boundsSize": [
+                0.3700098395347595,
+                0.6400094628334045,
+                0.37000954151153567
+            ]
+        },
+        {
+            "path": "The Red Door — Stage 1 v12/Props_Static_v11/PROP_RackLeft_WrappedParcel_Box",
+            "mesh": "PROP_RackLeft_WrappedParcel_Box",
+            "position": [
+                1.850000023841858,
+                2.119999885559082,
+                -1.1200000047683716
+            ],
+            "rotation": [
+                270.019775390625,
+                0.0,
+                0.0
+            ],
+            "boundsCenter": [
+                1.850000023841858,
+                2.119999885559082,
+                -1.1200000047683716
+            ],
+            "boundsSize": [
+                0.47322025895118716,
+                0.25000089406967165,
+                0.3214168846607208
+            ]
+        },
+        {
+            "path": "The Red Door — Stage 1 v12/Props_Static_v11/PROP_RackLeft_WrappedParcel_Tie_X",
+            "mesh": "PROP_RackLeft_WrappedParcel_Tie_X",
+            "position": [
+                1.850000023841858,
+                2.25,
+                -1.1200000047683716
+            ],
+            "rotation": [
+                270.019775390625,
+                0.0,
+                0.0
+            ],
+            "boundsCenter": [
+                1.850000023841858,
+                2.25,
+                -1.1200000047683716
+            ],
+            "boundsSize": [
+                0.05095020681619644,
+                0.015000649727880955,
+                0.32134994864463808
+            ]
+        },
+        {
+            "path": "The Red Door — Stage 1 v12/Props_Static_v11/PROP_RackLeft_WrappedParcel_Tie_Y",
+            "mesh": "PROP_RackLeft_WrappedParcel_Tie_Y",
+            "position": [
+                1.850000023841858,
+                2.25,
+                -1.1200000047683716
+            ],
+            "rotation": [
+                270.019775390625,
+                0.0,
+                0.0
+            ],
+            "boundsCenter": [
+                1.850000023841858,
+                2.25,
+                -1.1200000047683716
+            ],
+            "boundsSize": [
+                0.48065054416656496,
+                0.015000920742750168,
+                0.04895966872572899
+            ]
+        },
+        {
+            "path": "The Red Door — Stage 1 v12/Props_Static_v11/PROP_RackRight_RolledBlanket_Roll",
+            "mesh": "PROP_RackRight_RolledBlanket_Roll",
+            "position": [
+                -2.2799999713897707,
+                2.130000114440918,
+                1.1200000047683716
+            ],
+            "rotation": [
+                270.019775390625,
+                0.0,
+                0.0
+            ],
+            "boundsCenter": [
+                -2.2799999713897707,
+                2.130000114440918,
+                1.1200000047683716
+            ],
+            "boundsSize": [
+                0.4935285747051239,
+                0.24000096321105958,
+                0.26835179328918459
+            ]
+        },
+        {
+            "path": "The Red Door — Stage 1 v12/Props_Static_v11/PROP_RackRight_RolledBlanket_Tie_L",
+            "mesh": "PROP_RackRight_RolledBlanket_Tie_L",
+            "position": [
+                -2.140000104904175,
+                2.130000114440918,
+                1.1200000047683716
+            ],
+            "rotation": [
+                270.019775390625,
+                0.0,
+                0.0
+            ],
+            "boundsCenter": [
+                -2.140000104904175,
+                2.130000114440918,
+                1.1200000047683716
+            ],
+            "boundsSize": [
+                0.0384686104953289,
+                0.26600050926208498,
+                0.2655218541622162
+            ]
+        },
+        {
+            "path": "The Red Door — Stage 1 v12/Props_Static_v11/PROP_RackRight_RolledBlanket_Tie_R",
+            "mesh": "PROP_RackRight_RolledBlanket_Tie_R",
+            "position": [
+                -2.4200000762939455,
+                2.130000114440918,
+                1.1200000047683716
+            ],
+            "rotation": [
+                270.019775390625,
+                0.0,
+                0.0
+            ],
+            "boundsCenter": [
+                -2.4200000762939455,
+                2.130000114440918,
+                1.1200000047683716
+            ],
+            "boundsSize": [
+                0.0384686104953289,
+                0.26600050926208498,
+                0.2655218541622162
+            ]
+        },
+        {
+            "path": "The Red Door — Stage 1 v12/Props_Static_v11/PROP_RedDoorTable03_EnamelMug_Body",
+            "mesh": "PROP_RedDoorTable03_EnamelMug_Body",
+            "position": [
+                -3.6499998569488527,
+                0.824999988079071,
+                -1.1200000047683716
+            ],
+            "rotation": [
+                270.019775390625,
+                0.0,
+                0.0
+            ],
+            "boundsCenter": [
+                -3.6499998569488527,
+                0.824999988079071,
+                -1.1200000047683716
+            ],
+            "boundsSize": [
+                0.0940002053976059,
+                0.11000021547079086,
+                0.09400021284818649
+            ]
+        },
+        {
+            "path": "The Red Door — Stage 1 v12/Props_Static_v11/PROP_RedDoorTable03_EnamelMug_Drink",
+            "mesh": "PROP_RedDoorTable03_EnamelMug_Drink",
+            "position": [
+                -3.6499998569488527,
+                0.8820000290870667,
+                -1.1200000047683716
+            ],
+            "rotation": [
+                270.019775390625,
+                0.0,
+                0.0
+            ],
+            "boundsCenter": [
+                -3.6499998569488527,
+                0.8820000290870667,
+                -1.1200000047683716
+            ],
+            "boundsSize": [
+                0.07800015062093735,
+                0.005000157281756401,
+                0.07800014317035675
+            ]
+        },
+        {
+            "path": "The Red Door — Stage 1 v12/Props_Static_v11/PROP_RedDoorTable03_EnamelMug_Handle",
+            "mesh": "PROP_RedDoorTable03_EnamelMug_Handle",
+            "position": [
+                -3.7039036750793459,
+                0.8299999833106995,
+                -1.1309268474578858
+            ],
+            "rotation": [
+                270.019775390625,
+                0.0,
+                0.0
+            ],
+            "boundsCenter": [
+                -3.7039036750793459,
+                0.8299999833106995,
+                -1.1309268474578858
+            ],
+            "boundsSize": [
+                0.0784054845571518,
+                0.0800001472234726,
+                0.028396062552928926
+            ]
+        },
+        {
+            "path": "The Red Door — Stage 1 v12/Props_Static_v11/PROP_RedDoorTable03_Newspaper_Paper",
+            "mesh": "PROP_RedDoorTable03_Newspaper_Paper",
+            "position": [
+                -3.4600000381469728,
+                0.7829999923706055,
+                1.1699999570846558
+            ],
+            "rotation": [
+                270.019775390625,
+                0.0,
+                0.0
+            ],
+            "boundsCenter": [
+                -3.4600000381469728,
+                0.7829999923706055,
+                1.1699999570846558
+            ],
+            "boundsSize": [
+                0.3258019983768463,
+                0.008000648580491543,
+                0.23473195731639863
+            ]
+        },
+        {
+            "path": "The Red Door — Stage 1 v12/Props_Static_v11/PROP_RedDoorTable03_Newspaper_Print_01",
+            "mesh": "PROP_RedDoorTable03_Newspaper_Print_01",
+            "position": [
+                -3.4600000381469728,
+                0.7882000207901001,
+                1.2117999792099
+            ],
+            "rotation": [
+                270.019775390625,
+                0.0,
+                0.0
+            ],
+            "boundsCenter": [
+                -3.4600000381469728,
+                0.7882000207901001,
+                1.2117999792099
+            ],
+            "boundsSize": [
+                0.19674590229988099,
+                0.002000379841774702,
+                0.03944319486618042
+            ]
+        },
+        {
+            "path": "The Red Door — Stage 1 v12/Props_Static_v11/PROP_RedDoorTable03_Newspaper_Print_02",
+            "mesh": "PROP_RedDoorTable03_Newspaper_Print_02",
+            "position": [
+                -3.4600000381469728,
+                0.7882000207901001,
+                1.1699999570846558
+            ],
+            "rotation": [
+                270.019775390625,
+                0.0,
+                0.0
+            ],
+            "boundsCenter": [
+                -3.4600000381469728,
+                0.7882000207901001,
+                1.1699999570846558
+            ],
+            "boundsSize": [
+                0.1434355229139328,
+                0.0020002771634608509,
+                0.030839908868074418
+            ]
+        },
+        {
+            "path": "The Red Door — Stage 1 v12/Props_Static_v11/PROP_RedDoorTable03_Newspaper_Print_03",
+            "mesh": "PROP_RedDoorTable03_Newspaper_Print_03",
+            "position": [
+                -3.4600000381469728,
+                0.7882000207901001,
+                1.1282000541687012
+            ],
+            "rotation": [
+                270.019775390625,
+                0.0,
+                0.0
+            ],
+            "boundsCenter": [
+                -3.4600000381469728,
+                0.7882000207901001,
+                1.1282000541687012
+            ],
+            "boundsSize": [
+                0.1434355229139328,
+                0.0020002771634608509,
+                0.030839908868074418
+            ]
+        },
+        {
+            "path": "The Red Door — Stage 1 v12/Props_Static_v11/PROP_RedDoorTable03_Ticket",
+            "mesh": "PROP_RedDoorTable03_Ticket",
+            "position": [
+                -3.690000057220459,
+                0.7919999957084656,
+                1.0800000429153443
+            ],
+            "rotation": [
+                270.019775390625,
+                0.0,
+                0.0
+            ],
+            "boundsCenter": [
+                -3.690000057220459,
+                0.7919999957084656,
+                1.0800000429153443
+            ],
+            "boundsSize": [
+                0.10165785253047943,
+                0.004000200890004635,
+                0.062259137630462649
+            ]
+        },
+        {
+            "path": "The Red Door — Stage 1 v12/Props_Static_v11/PROP_RedDoorTable03_Ticket_Mark",
+            "mesh": "PROP_RedDoorTable03_Ticket_Mark",
+            "position": [
+                -3.690000057220459,
+                0.7950000166893005,
+                1.0800000429153443
+            ],
+            "rotation": [
+                270.019775390625,
+                0.0,
+                0.0
+            ],
+            "boundsCenter": [
+                -3.690000057220459,
+                0.7950000166893005,
+                1.0800000429153443
+            ],
+            "boundsSize": [
+                0.04522484540939331,
+                0.00200008787214756,
+                0.015675803646445276
+            ]
+        },
+        {
+            "path": "The Red Door — Stage 1 v12/Props_Static_v11/PROP_Row02_WovenTravelBag_Body",
+            "mesh": "PROP_Row02_WovenTravelBag_Body",
+            "position": [
+                0.6200000047683716,
+                0.20999999344348908,
+                1.0800000429153443
+            ],
+            "rotation": [
+                270.019775390625,
+                0.0,
+                0.0
+            ],
+            "boundsCenter": [
+                0.6200000047683716,
+                0.20999999344348908,
+                1.0800000429153443
+            ],
+            "boundsSize": [
+                0.447819322347641,
+                0.360000878572464,
+                0.28668859601020815
+            ]
+        },
+        {
+            "path": "The Red Door — Stage 1 v12/Props_Static_v11/PROP_Row02_WovenTravelBag_Handle",
+            "mesh": "PROP_Row02_WovenTravelBag_Handle",
+            "position": [
+                0.6200000047683716,
+                0.4099999964237213,
+                1.0800000429153443
+            ],
+            "rotation": [
+                270.019775390625,
+                0.0,
+                0.0
+            ],
+            "boundsCenter": [
+                0.6200000047683716,
+                0.4099999964237213,
+                1.0800000429153443
+            ],
+            "boundsSize": [
+                0.22400043904781342,
+                0.22400042414665223,
+                0.024000465869903566
+            ]
+        },
+        {
+            "path": "The Red Door — Stage 1 v12/Props_Static_v11/PROP_Row02_WovenTravelBag_Stripe_A",
+            "mesh": "PROP_Row02_WovenTravelBag_Stripe_A",
+            "position": [
+                0.6200000047683716,
+                0.20999999344348908,
+                1.2079999446868897
+            ],
+            "rotation": [
+                270.019775390625,
+                0.0,
+                0.0
+            ],
+            "boundsCenter": [
+                0.6200000047683716,
+                0.20999999344348908,
+                1.2079999446868897
+            ],
+            "boundsSize": [
+                0.42865127325057986,
+                0.045000821352005008,
+                0.05088922008872032
+            ]
+        },
+        {
+            "path": "The Red Door — Stage 1 v12/Props_Static_v11/PROP_Row02_WovenTravelBag_Stripe_B",
+            "mesh": "PROP_Row02_WovenTravelBag_Stripe_B",
+            "position": [
+                0.6200000047683716,
+                0.30000001192092898,
+                1.2120000123977662
+            ],
+            "rotation": [
+                270.019775390625,
+                0.0,
+                0.0
+            ],
+            "boundsCenter": [
+                0.6200000047683716,
+                0.30000001192092898,
+                1.2120000123977662
+            ],
+            "boundsSize": [
+                0.42865127325057986,
+                0.035000819712877277,
+                0.05088922008872032
+            ]
+        },
+        {
+            "path": "The Red Door — Stage 1 v12/Props_Static_v11/PROP_Row03_FoldedPaper_Paper",
+            "mesh": "PROP_Row03_FoldedPaper_Paper",
+            "position": [
+                -1.059999942779541,
+                0.7849999666213989,
+                -1.290000081062317
+            ],
+            "rotation": [
+                270.019775390625,
+                0.0,
+                0.0
+            ],
+            "boundsCenter": [
+                -1.059999942779541,
+                0.7849999666213989,
+                -1.290000081062317
+            ],
+            "boundsSize": [
+                0.2716158628463745,
+                0.012000542134046555,
+                0.21068909764289857
+            ]
+        },
+        {
+            "path": "The Red Door — Stage 1 v12/Props_Static_v11/PROP_Row03_FoldedPaper_Print_01",
+            "mesh": "PROP_Row03_FoldedPaper_Print_01",
+            "position": [
+                -1.059999942779541,
+                0.7928000092506409,
+                -1.259200096130371
+            ],
+            "rotation": [
+                270.019775390625,
+                0.0,
+                0.0
+            ],
+            "boundsCenter": [
+                -1.059999942779541,
+                0.7928000092506409,
+                -1.259200096130371
+            ],
+            "boundsSize": [
+                0.1520005315542221,
+                0.0020002969540655615,
+                0.0603666789829731
+            ]
+        },
+        {
+            "path": "The Red Door — Stage 1 v12/Props_Static_v11/PROP_Row03_FoldedPaper_Print_02",
+            "mesh": "PROP_Row03_FoldedPaper_Print_02",
+            "position": [
+                -1.059999942779541,
+                0.7928000092506409,
+                -1.290000081062317
+            ],
+            "rotation": [
+                270.019775390625,
+                0.0,
+                0.0
+            ],
+            "boundsCenter": [
+                -1.059999942779541,
+                0.7928000092506409,
+                -1.290000081062317
+            ],
+            "boundsSize": [
+                0.11127344518899918,
+                0.002000217791646719,
+                0.0459599569439888
+            ]
+        },
+        {
+            "path": "The Red Door — Stage 1 v12/Props_Static_v11/PROP_Row03_FoldedPaper_Print_03",
+            "mesh": "PROP_Row03_FoldedPaper_Print_03",
+            "position": [
+                -1.059999942779541,
+                0.7928000092506409,
+                -1.3208000659942628
+            ],
+            "rotation": [
+                270.019775390625,
+                0.0,
+                0.0
+            ],
+            "boundsCenter": [
+                -1.059999942779541,
+                0.7928000092506409,
+                -1.3208000659942628
+            ],
+            "boundsSize": [
+                0.11127344518899918,
+                0.002000217791646719,
+                0.0459599569439888
+            ]
+        },
+        {
+            "path": "The Red Door — Stage 1 v12/Props_Static_v11/PROP_Row05_CanvasDuffel_Body",
+            "mesh": "PROP_Row05_CanvasDuffel_Body",
+            "position": [
+                -3.200000047683716,
+                0.1899999976158142,
+                -1.0800000429153443
+            ],
+            "rotation": [
+                270.019775390625,
+                0.0,
+                0.0
+            ],
+            "boundsCenter": [
+                -3.200000047683716,
+                0.1899999976158142,
+                -1.0800000429153443
+            ],
+            "boundsSize": [
+                0.49205124378204348,
+                0.300000935792923,
+                0.28116723895072939
+            ]
+        },
+        {
+            "path": "The Red Door — Stage 1 v12/Props_Static_v11/PROP_Row05_CanvasDuffel_Handle_L",
+            "mesh": "PROP_Row05_CanvasDuffel_Handle_L",
+            "position": [
+                -3.080000162124634,
+                0.3700000047683716,
+                -1.0800000429153443
+            ],
+            "rotation": [
+                270.019775390625,
+                0.0,
+                0.0
+            ],
+            "boundsCenter": [
+                -3.080000162124634,
+                0.3700000047683716,
+                -1.0800000429153443
+            ],
+            "boundsSize": [
+                0.20400039851665498,
+                0.20400038361549378,
+                0.02400042489171028
+            ]
+        },
+        {
+            "path": "The Red Door — Stage 1 v12/Props_Static_v11/PROP_Row05_CanvasDuffel_Handle_R",
+            "mesh": "PROP_Row05_CanvasDuffel_Handle_R",
+            "position": [
+                -3.319999933242798,
+                0.3700000047683716,
+                -1.0800000429153443
+            ],
+            "rotation": [
+                270.019775390625,
+                0.0,
+                0.0
+            ],
+            "boundsCenter": [
+                -3.319999933242798,
+                0.3700000047683716,
+                -1.0800000429153443
+            ],
+            "boundsSize": [
+                0.20400039851665498,
+                0.20400038361549378,
+                0.02400042489171028
+            ]
+        },
+        {
+            "path": "The Red Door — Stage 1 v12/Props_Static_v11/PROP_Row05_CanvasDuffel_Tag",
+            "mesh": "PROP_Row05_CanvasDuffel_Tag",
+            "position": [
+                -3.299999952316284,
+                0.20999999344348908,
+                -0.949999988079071
+            ],
+            "rotation": [
+                270.019775390625,
+                0.0,
+                0.0
+            ],
+            "boundsCenter": [
+                -3.299999952316284,
+                0.20999999344348908,
+                -0.949999988079071
+            ],
+            "boundsSize": [
+                0.07025574892759323,
+                0.050000131130218509,
+                0.015242524445056916
+            ]
+        },
+        {
+            "path": "The Red Door — Stage 1 v12/Props_Static_v11/PROP_TableLeft01_EnamelMug_Body",
+            "mesh": "PROP_TableLeft01_EnamelMug_Body",
+            "position": [
+                1.5500000715255738,
+                0.824999988079071,
+                -1.1200000047683716
+            ],
+            "rotation": [
+                270.019775390625,
+                0.0,
+                0.0
+            ],
+            "boundsCenter": [
+                1.5500000715255738,
+                0.824999988079071,
+                -1.1200000047683716
+            ],
+            "boundsSize": [
+                0.0940002053976059,
+                0.11000021547079086,
+                0.09400021284818649
+            ]
+        },
+        {
+            "path": "The Red Door — Stage 1 v12/Props_Static_v11/PROP_TableLeft01_EnamelMug_Drink",
+            "mesh": "PROP_TableLeft01_EnamelMug_Drink",
+            "position": [
+                1.5500000715255738,
+                0.8820000290870667,
+                -1.1200000047683716
+            ],
+            "rotation": [
+                270.019775390625,
+                0.0,
+                0.0
+            ],
+            "boundsCenter": [
+                1.5500000715255738,
+                0.8820000290870667,
+                -1.1200000047683716
+            ],
+            "boundsSize": [
+                0.07800015062093735,
+                0.005000157281756401,
+                0.07800014317035675
+            ]
+        },
+        {
+            "path": "The Red Door — Stage 1 v12/Props_Static_v11/PROP_TableLeft01_EnamelMug_Handle",
+            "mesh": "PROP_TableLeft01_EnamelMug_Handle",
+            "position": [
+                1.4960962533950806,
+                0.8299999833106995,
+                -1.1309268474578858
+            ],
+            "rotation": [
+                270.019775390625,
+                0.0,
+                0.0
+            ],
+            "boundsCenter": [
+                1.4960962533950806,
+                0.8299999833106995,
+                -1.1309268474578858
+            ],
+            "boundsSize": [
+                0.0784054845571518,
+                0.0800001472234726,
+                0.028396062552928926
+            ]
+        },
+        {
+            "path": "The Red Door — Stage 1 v12/Props_Static_v11/PROP_TableLeft01_Thermos_Band",
+            "mesh": "PROP_TableLeft01_Thermos_Band",
+            "position": [
+                1.8000000715255738,
+                0.9599999785423279,
+                -1.149999976158142
+            ],
+            "rotation": [
+                270.019775390625,
+                0.0,
+                0.0
+            ],
+            "boundsCenter": [
+                1.8000000715255738,
+                0.9599999785423279,
+                -1.149999976158142
+            ],
+            "boundsSize": [
+                0.11400021612644196,
+                0.03500022739171982,
+                0.11400021612644196
+            ]
+        },
+        {
+            "path": "The Red Door — Stage 1 v12/Props_Static_v11/PROP_TableLeft01_Thermos_Body",
+            "mesh": "PROP_TableLeft01_Thermos_Body",
+            "position": [
+                1.8000000715255738,
+                0.9150000214576721,
+                -1.149999976158142
+            ],
+            "rotation": [
+                270.019775390625,
+                0.0,
+                0.0
+            ],
+            "boundsCenter": [
+                1.8000000715255738,
+                0.9150000214576721,
+                -1.149999976158142
+            ],
+            "boundsSize": [
+                0.11000055074691773,
+                0.2900005280971527,
+                0.11000058054924011
+            ]
+        },
+        {
+            "path": "The Red Door — Stage 1 v12/Props_Static_v11/PROP_TableLeft01_Thermos_Cap",
+            "mesh": "PROP_TableLeft01_Thermos_Cap",
+            "position": [
+                1.8000000715255738,
+                1.0800000429153443,
+                -1.149999976158142
+            ],
+            "rotation": [
+                270.019775390625,
+                0.0,
+                0.0
+            ],
+            "boundsCenter": [
+                1.8000000715255738,
+                1.0800000429153443,
+                -1.149999976158142
+            ],
+            "boundsSize": [
+                0.09600018709897995,
+                0.045000191777944568,
+                0.09600018709897995
+            ]
+        },
+        {
+            "path": "The Red Door — Stage 1 v12/Props_Static_v11/PROP_TableLeft01_Thermos_Handle",
+            "mesh": "PROP_TableLeft01_Thermos_Handle",
+            "position": [
+                1.7419999837875367,
+                0.9700000286102295,
+                -1.149999976158142
+            ],
+            "rotation": [
+                270.019775390625,
+                0.0,
+                0.0
+            ],
+            "boundsCenter": [
+                1.7419999837875367,
+                0.9700000286102295,
+                -1.149999976158142
+            ],
+            "boundsSize": [
+                0.1300002485513687,
+                0.13000023365020753,
+                0.020000267773866655
+            ]
+        },
+        {
+            "path": "The Red Door — Stage 1 v12/Props_Static_v11/PROP_TableLeft02_TeaMug_Body",
+            "mesh": "PROP_TableLeft02_TeaMug_Body",
+            "position": [
+                -0.9800000190734863,
+                0.824999988079071,
+                -1.1200000047683716
+            ],
+            "rotation": [
+                270.019775390625,
+                0.0,
+                0.0
+            ],
+            "boundsCenter": [
+                -0.9800000190734863,
+                0.824999988079071,
+                -1.1200000047683716
+            ],
+            "boundsSize": [
+                0.0940002053976059,
+                0.11000021547079086,
+                0.09400021284818649
+            ]
+        },
+        {
+            "path": "The Red Door — Stage 1 v12/Props_Static_v11/PROP_TableLeft02_TeaMug_Drink",
+            "mesh": "PROP_TableLeft02_TeaMug_Drink",
+            "position": [
+                -0.9800000190734863,
+                0.8820000290870667,
+                -1.1200000047683716
+            ],
+            "rotation": [
+                270.019775390625,
+                0.0,
+                0.0
+            ],
+            "boundsCenter": [
+                -0.9800000190734863,
+                0.8820000290870667,
+                -1.1200000047683716
+            ],
+            "boundsSize": [
+                0.07800015062093735,
+                0.005000157281756401,
+                0.07800014317035675
+            ]
+        },
+        {
+            "path": "The Red Door — Stage 1 v12/Props_Static_v11/PROP_TableLeft02_TeaMug_Handle",
+            "mesh": "PROP_TableLeft02_TeaMug_Handle",
+            "position": [
+                -0.9359370470046997,
+                0.8299999833106995,
+                -1.1529159545898438
+            ],
+            "rotation": [
+                270.019775390625,
+                0.0,
+                0.0
+            ],
+            "boundsCenter": [
+                -0.9359370470046997,
+                0.8299999833106995,
+                -1.1529159545898438
+            ],
+            "boundsSize": [
+                0.06409163028001785,
+                0.08000015467405319,
+                0.05112066864967346
+            ]
+        },
+        {
+            "path": "The Red Door — Stage 1 v12/Props_Static_v11/PROP_TableLeft02_WaterBottle_Body",
+            "mesh": "PROP_TableLeft02_WaterBottle_Body",
+            "position": [
+                -0.7399999499320984,
+                0.875,
+                -1.1799999475479127
+            ],
+            "rotation": [
+                270.019775390625,
+                0.0,
+                0.0
+            ],
+            "boundsCenter": [
+                -0.7399999499320984,
+                0.875,
+                -1.1799999475479127
+            ],
+            "boundsSize": [
+                0.06800040602684021,
+                0.2100003957748413,
+                0.0680004209280014
+            ]
+        },
+        {
+            "path": "The Red Door — Stage 1 v12/Props_Static_v11/PROP_TableLeft02_WaterBottle_Cap",
+            "mesh": "PROP_TableLeft02_WaterBottle_Cap",
+            "position": [
+                -0.7399999499320984,
+                1.031999945640564,
+                -1.1799999475479127
+            ],
+            "rotation": [
+                270.019775390625,
+                0.0,
+                0.0
+            ],
+            "boundsCenter": [
+                -0.7399999499320984,
+                1.031999945640564,
+                -1.1799999475479127
+            ],
+            "boundsSize": [
+                0.044000085443258288,
+                0.03000008687376976,
+                0.044000085443258288
+            ]
+        },
+        {
+            "path": "The Red Door — Stage 1 v12/Props_Static_v11/PROP_TableLeft02_WaterBottle_Label",
+            "mesh": "PROP_TableLeft02_WaterBottle_Label",
+            "position": [
+                -0.7399999499320984,
+                0.8899999856948853,
+                -1.1799999475479127
+            ],
+            "rotation": [
+                270.019775390625,
+                0.0,
+                0.0
+            ],
+            "boundsCenter": [
+                -0.7399999499320984,
+                0.8899999856948853,
+                -1.1799999475479127
+            ],
+            "boundsSize": [
+                0.07000013440847397,
+                0.05500013753771782,
+                0.07000013440847397
+            ]
+        },
+        {
+            "path": "The Red Door — Stage 1 v12/Props_Static_v11/PROP_TableLeft02_WaterBottle_Shoulder",
+            "mesh": "PROP_TableLeft02_WaterBottle_Shoulder",
+            "position": [
+                -0.7399999499320984,
+                0.9950000047683716,
+                -1.1799999475479127
+            ],
+            "rotation": [
+                270.019775390625,
+                0.0,
+                0.0
+            ],
+            "boundsCenter": [
+                -0.7399999499320984,
+                0.9950000047683716,
+                -1.1799999475479127
+            ],
+            "boundsSize": [
+                0.06800013035535813,
+                0.04500013589859009,
+                0.06800013035535813
+            ]
+        },
+        {
+            "path": "The Red Door — Stage 1 v12/Props_Static_v11/PROP_TableRight01_Newspaper_Paper",
+            "mesh": "PROP_TableRight01_Newspaper_Paper",
+            "position": [
+                1.7399998903274537,
+                0.7829999923706055,
+                1.1699999570846558
+            ],
+            "rotation": [
+                270.019775390625,
+                0.0,
+                0.0
+            ],
+            "boundsCenter": [
+                1.7399998903274537,
+                0.7829999923706055,
+                1.1699999570846558
+            ],
+            "boundsSize": [
+                0.3258019983768463,
+                0.008000648580491543,
+                0.23473195731639863
+            ]
+        },
+        {
+            "path": "The Red Door — Stage 1 v12/Props_Static_v11/PROP_TableRight01_Newspaper_Print_01",
+            "mesh": "PROP_TableRight01_Newspaper_Print_01",
+            "position": [
+                1.7399998903274537,
+                0.7882000207901001,
+                1.2117999792099
+            ],
+            "rotation": [
+                270.019775390625,
+                0.0,
+                0.0
+            ],
+            "boundsCenter": [
+                1.7399998903274537,
+                0.7882000207901001,
+                1.2117999792099
+            ],
+            "boundsSize": [
+                0.19674590229988099,
+                0.002000379841774702,
+                0.03944319486618042
+            ]
+        },
+        {
+            "path": "The Red Door — Stage 1 v12/Props_Static_v11/PROP_TableRight01_Newspaper_Print_02",
+            "mesh": "PROP_TableRight01_Newspaper_Print_02",
+            "position": [
+                1.7399998903274537,
+                0.7882000207901001,
+                1.1699999570846558
+            ],
+            "rotation": [
+                270.019775390625,
+                0.0,
+                0.0
+            ],
+            "boundsCenter": [
+                1.7399998903274537,
+                0.7882000207901001,
+                1.1699999570846558
+            ],
+            "boundsSize": [
+                0.1434355229139328,
+                0.0020002771634608509,
+                0.030839908868074418
+            ]
+        },
+        {
+            "path": "The Red Door — Stage 1 v12/Props_Static_v11/PROP_TableRight01_Newspaper_Print_03",
+            "mesh": "PROP_TableRight01_Newspaper_Print_03",
+            "position": [
+                1.7399998903274537,
+                0.7882000207901001,
+                1.1282000541687012
+            ],
+            "rotation": [
+                270.019775390625,
+                0.0,
+                0.0
+            ],
+            "boundsCenter": [
+                1.7399998903274537,
+                0.7882000207901001,
+                1.1282000541687012
+            ],
+            "boundsSize": [
+                0.1434355229139328,
+                0.0020002771634608509,
+                0.030839908868074418
+            ]
+        },
+        {
+            "path": "The Red Door — Stage 1 v12/Props_Static_v11/PROP_TableRight01_Ticket",
+            "mesh": "PROP_TableRight01_Ticket",
+            "position": [
+                1.5099998712539673,
+                0.7919999957084656,
+                1.0800000429153443
+            ],
+            "rotation": [
+                270.019775390625,
+                0.0,
+                0.0
+            ],
+            "boundsCenter": [
+                1.5099998712539673,
+                0.7919999957084656,
+                1.0800000429153443
+            ],
+            "boundsSize": [
+                0.10165785253047943,
+                0.004000200890004635,
+                0.062259137630462649
+            ]
+        },
+        {
+            "path": "The Red Door — Stage 1 v12/Props_Static_v11/PROP_TableRight01_Ticket_Mark",
+            "mesh": "PROP_TableRight01_Ticket_Mark",
+            "position": [
+                1.5099998712539673,
+                0.7950000166893005,
+                1.0800000429153443
+            ],
+            "rotation": [
+                270.019775390625,
+                0.0,
+                0.0
+            ],
+            "boundsCenter": [
+                1.5099998712539673,
+                0.7950000166893005,
+                1.0800000429153443
+            ],
+            "boundsSize": [
+                0.04522484540939331,
+                0.00200008787214756,
+                0.015675803646445276
+            ]
+        },
+        {
+            "path": "The Red Door — Stage 1 v12/Props_Static_v11/PROP_TableRight02_NoodleCup_Cup",
+            "mesh": "PROP_TableRight02_NoodleCup_Cup",
+            "position": [
+                -0.9599999189376831,
+                0.8349999785423279,
+                1.1699999570846558
+            ],
+            "rotation": [
+                270.019775390625,
+                0.0,
+                0.0
+            ],
+            "boundsCenter": [
+                -0.9599999189376831,
+                0.8349999785423279,
+                1.1699999570846558
+            ],
+            "boundsSize": [
+                0.14000026881694795,
+                0.1300002634525299,
+                0.14000026881694795
+            ]
+        },
+        {
+            "path": "The Red Door — Stage 1 v12/Props_Static_v11/PROP_TableRight02_NoodleCup_Fork",
+            "mesh": "PROP_TableRight02_NoodleCup_Fork",
+            "position": [
+                -0.9779999256134033,
+                0.9179999828338623,
+                1.1699999570846558
+            ],
+            "rotation": [
+                270.019775390625,
+                0.0,
+                0.0
+            ],
+            "boundsCenter": [
+                -0.9779999256134033,
+                0.9179999828338623,
+                1.1699999570846558
+            ],
+            "boundsSize": [
+                0.12199229747056961,
+                0.026739612221717836,
+                0.06382811069488526
+            ]
+        },
+        {
+            "path": "The Red Door — Stage 1 v12/Props_Static_v11/PROP_TableRight02_NoodleCup_Lid",
+            "mesh": "PROP_TableRight02_NoodleCup_Lid",
+            "position": [
+                -0.9599999189376831,
+                0.9039999842643738,
+                1.1699999570846558
+            ],
+            "rotation": [
+                270.019775390625,
+                0.0,
+                0.0
+            ],
+            "boundsCenter": [
+                -0.9599999189376831,
+                0.9039999842643738,
+                1.1699999570846558
+            ],
+            "boundsSize": [
+                0.14600028097629548,
+                0.008000295609235764,
+                0.14600026607513429
+            ]
+        },
+        {
+            "path": "The Red Door — Stage 1 v12/Props_Static_v11/PROP_TableRight02_SnackWrapper",
+            "mesh": "PROP_TableRight02_SnackWrapper",
+            "position": [
+                -0.5999999642372131,
+                0.8100000023841858,
+                1.2799999713897706
+            ],
+            "rotation": [
+                270.019775390625,
+                0.0,
+                0.0
+            ],
+            "boundsCenter": [
+                -0.5999999642372131,
+                0.8100000023841858,
+                1.2799999713897706
+            ],
+            "boundsSize": [
+                0.1575203686952591,
+                0.032442908734083179,
+                0.08815896511077881
+            ]
+        },
+        {
+            "path": "The Red Door — Stage 1 v12/Props_Static_v11/PROP_TableRight02_Ticket",
+            "mesh": "PROP_TableRight02_Ticket",
+            "position": [
+                -0.6799999475479126,
+                0.7919999957084656,
+                1.1100000143051148
+            ],
+            "rotation": [
+                270.019775390625,
+                0.0,
+                0.0
+            ],
+            "boundsCenter": [
+                -0.6799999475479126,
+                0.7919999957084656,
+                1.1100000143051148
+            ],
+            "boundsSize": [
+                0.10329940915107727,
+                0.004000205546617508,
+                0.07228270918130875
+            ]
+        },
+        {
+            "path": "The Red Door — Stage 1 v12/Props_Static_v11/PROP_TableRight02_Ticket_Mark",
+            "mesh": "PROP_TableRight02_Ticket_Mark",
+            "position": [
+                -0.6799999475479126,
+                0.7950000166893005,
+                1.1100000143051148
+            ],
+            "rotation": [
+                270.019775390625,
+                0.0,
+                0.0
+            ],
+            "boundsCenter": [
+                -0.6799999475479126,
+                0.7950000166893005,
+                1.1100000143051148
+            ],
+            "boundsSize": [
+                0.04432924836874008,
+                0.0020000869408249857,
+                0.02106671966612339
+            ]
+        },
+        {
+            "path": "The Red Door — Stage 1 v12/Props_Static_v11/PROP_v04_Row01_BagStrap",
+            "mesh": "PROP_v04_Row01_BagStrap",
+            "position": [
+                2.7200000286102297,
+                0.8700000047683716,
+                0.5799999833106995
+            ],
+            "rotation": [
+                270.019775390625,
+                0.0,
+                0.0
+            ],
+            "boundsCenter": [
+                2.7200000286102297,
+                0.8700000047683716,
+                0.5799999833106995
+            ],
+            "boundsSize": [
+                0.3440006375312805,
+                0.34400060772895815,
+                0.02400071918964386
+            ]
+        },
+        {
+            "path": "The Red Door — Stage 1 v12/Props_Static_v11/PROP_v04_Row01_ShoulderBag",
+            "mesh": "PROP_v04_Row01_ShoulderBag",
+            "position": [
+                2.7200000286102297,
+                0.6200000047683716,
+                0.5799999833106995
+            ],
+            "rotation": [
+                270.019775390625,
+                0.0,
+                0.0
+            ],
+            "boundsCenter": [
+                2.7200000286102297,
+                0.6200000047683716,
+                0.5799999833106995
+            ],
+            "boundsSize": [
+                0.2939726710319519,
+                0.3314504325389862,
+                0.13838398456573487
+            ]
+        },
+        {
+            "path": "The Red Door — Stage 1 v12/Props_Static_v11/PROP_v04_Row03_CoatSleeve",
+            "mesh": "PROP_v04_Row03_CoatSleeve",
+            "position": [
+                -0.10000000149011612,
+                0.4699999988079071,
+                1.059999942779541
+            ],
+            "rotation": [
+                270.019775390625,
+                0.0,
+                0.0
+            ],
+            "boundsCenter": [
+                -0.10000000149011612,
+                0.4699999988079071,
+                1.059999942779541
+            ],
+            "boundsSize": [
+                0.28319624066352847,
+                0.08455156534910202,
+                0.1434948742389679
+            ]
+        },
+        {
+            "path": "The Red Door — Stage 1 v12/Props_Static_v11/PROP_v04_Row03_FoldedCoat",
+            "mesh": "PROP_v04_Row03_FoldedCoat",
+            "position": [
+                0.10000000149011612,
+                0.49000000953674319,
+                1.0199999809265137
+            ],
+            "rotation": [
+                270.019775390625,
+                0.0,
+                0.0
+            ],
+            "boundsCenter": [
+                0.10000000149011612,
+                0.49000000953674319,
+                1.0199999809265137
+            ],
+            "boundsSize": [
+                0.440234512090683,
+                0.07500088214874268,
+                0.3668835461139679
+            ]
+        },
+        {
+            "path": "The Red Door — Stage 1 v12/Props_Static_v11/PROP_v04_Row04_Slipper_1",
+            "mesh": "PROP_v04_Row04_Slipper_1",
+            "position": [
+                -1.7000000476837159,
+                0.054999999701976779,
+                -1.0199999809265137
+            ],
+            "rotation": [
+                270.019775390625,
+                0.0,
+                0.0
+            ],
+            "boundsCenter": [
+                -1.7000000476837159,
+                0.054999999701976779,
+                -1.0199999809265137
+            ],
+            "boundsSize": [
+                0.2550208270549774,
+                0.0650004893541336,
+                0.13004131615161897
+            ]
+        },
+        {
+            "path": "The Red Door — Stage 1 v12/Props_Static_v11/PROP_v04_Row04_Slipper_2",
+            "mesh": "PROP_v04_Row04_Slipper_2",
+            "position": [
+                -1.8799999952316285,
+                0.054999999701976779,
+                -1.0199999809265137
+            ],
+            "rotation": [
+                270.019775390625,
+                0.0,
+                0.0
+            ],
+            "boundsCenter": [
+                -1.8799999952316285,
+                0.054999999701976779,
+                -1.0199999809265137
+            ],
+            "boundsSize": [
+                0.25424236059188845,
+                0.0650004893541336,
+                0.12444260716438294
+            ]
+        },
+        {
+            "path": "The Red Door — Stage 1 v12/Props_Static_v11/PROP_v04_Row05_CapBrim",
+            "mesh": "PROP_v04_Row05_CapBrim",
+            "position": [
+                -2.390000104904175,
+                0.48500001430511477,
+                1.0199999809265137
+            ],
+            "rotation": [
+                270.019775390625,
+                0.0,
+                0.0
+            ],
+            "boundsCenter": [
+                -2.390000104904175,
+                0.48500001430511477,
+                1.0199999809265137
+            ],
+            "boundsSize": [
+                0.15990029275417329,
+                0.02517482079565525,
+                0.11000029742717743
+            ]
+        },
+        {
+            "path": "The Red Door — Stage 1 v12/Props_Static_v11/PROP_v04_Row05_ClothCap",
+            "mesh": "PROP_v04_Row05_ClothCap",
+            "position": [
+                -2.5,
+                0.49000000953674319,
+                1.0199999809265137
+            ],
+            "rotation": [
+                270.019775390625,
+                0.0,
+                0.0
+            ],
+            "boundsCenter": [
+                -2.5,
+                0.49000000953674319,
+                1.0199999809265137
+            ],
+            "boundsSize": [
+                0.2683279812335968,
+                0.100800521671772,
+                0.16740645468235017
+            ]
+        },
+        {
+            "path": "The Red Door — Stage 1 v12/Props_Static_v11/PROP_v04_Row05_EnamelBasin",
+            "mesh": "PROP_v04_Row05_EnamelBasin",
+            "position": [
+                -2.5199999809265138,
+                0.10000000149011612,
+                -1.0399999618530274
+            ],
+            "rotation": [
+                270.019775390625,
+                0.0,
+                0.0
+            ],
+            "boundsCenter": [
+                -2.5199999809265138,
+                0.10000000149011612,
+                -1.0399999618530274
+            ],
+            "boundsSize": [
+                0.3400006592273712,
+                0.1200006753206253,
+                0.34000062942504885
+            ]
+        },
+        {
+            "path": "The Red Door — Stage 1 v12/Props_Static_v11/PROP_v04_Row05_EnamelBasin_Rim",
+            "mesh": "PROP_v04_Row05_EnamelBasin_Rim",
+            "position": [
+                -2.5199999809265138,
+                0.16500000655651093,
+                -1.0399999618530274
+            ],
+            "rotation": [
+                270.019775390625,
+                0.0,
+                0.0
+            ],
+            "boundsCenter": [
+                -2.5199999809265138,
+                0.16500000655651093,
+                -1.0399999618530274
+            ],
+            "boundsSize": [
+                0.36000069975852969,
+                0.020000727847218515,
+                0.3600006699562073
+            ]
+        },
+        {
+            "path": "The Red Door — Stage 1 v12/Props_Static_v11/PROP_v04_Table01_LunchTin",
+            "mesh": "PROP_v04_Table01_LunchTin",
+            "position": [
+                2.0199999809265138,
+                0.824999988079071,
+                1.2699999809265137
+            ],
+            "rotation": [
+                270.019775390625,
+                0.0,
+                0.0
+            ],
+            "boundsCenter": [
+                2.0199999809265138,
+                0.824999988079071,
+                1.2699999809265137
+            ],
+            "boundsSize": [
+                0.1600002944469452,
+                0.11000031977891922,
+                0.1600002944469452
+            ]
+        },
+        {
+            "path": "The Red Door — Stage 1 v12/Props_Static_v11/PROP_v04_Table01_LunchTin_Handle",
+            "mesh": "PROP_v04_Table01_LunchTin_Handle",
+            "position": [
+                2.0199999809265138,
+                0.9399999976158142,
+                1.2699999809265137
+            ],
+            "rotation": [
+                270.019775390625,
+                0.0,
+                0.0
+            ],
+            "boundsCenter": [
+                2.0199999809265138,
+                0.9399999976158142,
+                1.2699999809265137
+            ],
+            "boundsSize": [
+                0.12600024044513703,
+                0.12600022554397584,
+                0.016000261530280114
+            ]
+        },
+        {
+            "path": "The Red Door — Stage 1 v12/Props_Static_v11/PROP_v04_Table01_LunchTin_Lid",
+            "mesh": "PROP_v04_Table01_LunchTin_Lid",
+            "position": [
+                2.0199999809265138,
+                0.8849999904632568,
+                1.2699999809265137
+            ],
+            "rotation": [
+                270.019775390625,
+                0.0,
+                0.0
+            ],
+            "boundsCenter": [
+                2.0199999809265138,
+                0.8849999904632568,
+                1.2699999809265137
+            ],
+            "boundsSize": [
+                0.16600030660629273,
+                0.01200033538043499,
+                0.16600029170513154
+            ]
+        },
+        {
+            "path": "The Red Door — Stage 1 v12/Props_Static_v11/PROP_v04_Table01_Orange_A",
+            "mesh": "PROP_v04_Table01_Orange_A",
+            "position": [
+                2.0199999809265138,
+                0.824999988079071,
+                -1.2999999523162842
+            ],
+            "rotation": [
+                270.019775390625,
+                0.0,
+                0.0
+            ],
+            "boundsCenter": [
+                2.0199999809265138,
+                0.824999988079071,
+                -1.2999999523162842
+            ],
+            "boundsSize": [
+                0.09302040189504624,
+                0.10400020331144333,
+                0.08846677094697952
+            ]
+        },
+        {
+            "path": "The Red Door — Stage 1 v12/Props_Static_v11/PROP_v04_Table01_Orange_B",
+            "mesh": "PROP_v04_Table01_Orange_B",
+            "position": [
+                1.909999966621399,
+                0.8230000138282776,
+                -1.2799999713897706
+            ],
+            "rotation": [
+                270.019775390625,
+                0.0,
+                0.0
+            ],
+            "boundsCenter": [
+                1.909999966621399,
+                0.8230000138282776,
+                -1.2799999713897706
+            ],
+            "boundsSize": [
+                0.08765383809804917,
+                0.0980001911520958,
+                0.08336291462182999
+            ]
+        },
+        {
+            "path": "The Red Door — Stage 1 v12/Props_Static_v11/PROP_v04_Table01_OrangeLeaf",
+            "mesh": "PROP_v04_Table01_OrangeLeaf",
+            "position": [
+                1.9700000286102296,
+                0.875,
+                -1.2699999809265137
+            ],
+            "rotation": [
+                270.019775390625,
+                0.0,
+                0.0
+            ],
+            "boundsCenter": [
+                1.9700000286102296,
+                0.875,
+                -1.2699999809265137
+            ],
+            "boundsSize": [
+                0.0670820027589798,
+                0.011000129394233227,
+                0.023392731323838235
+            ]
+        },
+        {
+            "path": "The Red Door — Stage 1 v12/Props_Static_v11/PROP_v04_Table02_CardMark_01",
+            "mesh": "PROP_v04_Table02_CardMark_01",
+            "position": [
+                -0.5350000262260437,
+                0.7960000038146973,
+                -1.309999942779541
+            ],
+            "rotation": [
+                270.019775390625,
+                0.0,
+                0.0
+            ],
+            "boundsCenter": [
+                -0.5350000262260437,
+                0.7960000038146973,
+                -1.309999942779541
+            ],
+            "boundsSize": [
+                0.013121298514306546,
+                0.002000025939196348,
+                0.009809661656618119
+            ]
+        },
+        {
+            "path": "The Red Door — Stage 1 v12/Props_Static_v11/PROP_v04_Table02_CardMark_02",
+            "mesh": "PROP_v04_Table02_CardMark_02",
+            "position": [
+                -0.5899999737739563,
+                0.796999990940094,
+                -1.309999942779541
+            ],
+            "rotation": [
+                270.019775390625,
+                0.0,
+                0.0
+            ],
+            "boundsCenter": [
+                -0.5899999737739563,
+                0.796999990940094,
+                -1.309999942779541
+            ],
+            "boundsSize": [
+                0.012310339137911797,
+                0.0020000243093818428,
+                0.008473495952785015
+            ]
+        },
+        {
+            "path": "The Red Door — Stage 1 v12/Props_Static_v11/PROP_v04_Table02_CardMark_03",
+            "mesh": "PROP_v04_Table02_CardMark_03",
+            "position": [
+                -0.6449999809265137,
+                0.7979999780654907,
+                -1.309999942779541
+            ],
+            "rotation": [
+                270.019775390625,
+                0.0,
+                0.0
+            ],
+            "boundsCenter": [
+                -0.6449999809265137,
+                0.7979999780654907,
+                -1.309999942779541
+            ],
+            "boundsSize": [
+                0.01260096300393343,
+                0.0020000250078737737,
+                0.0089334137737751
+            ]
+        },
+        {
+            "path": "The Red Door — Stage 1 v12/Props_Static_v11/PROP_v04_Table02_Chopstick_1",
+            "mesh": "PROP_v04_Table02_Chopstick_1",
+            "position": [
+                -0.8149999976158142,
+                0.8025000095367432,
+                1.2374999523162842
+            ],
+            "rotation": [
+                270.019775390625,
+                0.0,
+                0.0
+            ],
+            "boundsCenter": [
+                -0.8149999976158142,
+                0.8025000095367432,
+                1.2374999523162842
+            ],
+            "boundsSize": [
+                0.2507035732269287,
+                0.015731317922472955,
+                0.026958277449011804
+            ]
+        },
+        {
+            "path": "The Red Door — Stage 1 v12/Props_Static_v11/PROP_v04_Table02_Chopstick_2",
+            "mesh": "PROP_v04_Table02_Chopstick_2",
+            "position": [
+                -0.8149999976158142,
+                0.8025000095367432,
+                1.2774999141693116
+            ],
+            "rotation": [
+                270.019775390625,
+                0.0,
+                0.0
+            ],
+            "boundsCenter": [
+                -0.8149999976158142,
+                0.8025000095367432,
+                1.2774999141693116
+            ],
+            "boundsSize": [
+                0.2507035732269287,
+                0.015731317922472955,
+                0.026958277449011804
+            ]
+        },
+        {
+            "path": "The Red Door — Stage 1 v12/Props_Static_v11/PROP_v04_Table02_PlayingCard_01",
+            "mesh": "PROP_v04_Table02_PlayingCard_01",
+            "position": [
+                -0.5350000262260437,
+                0.7919999957084656,
+                -1.309999942779541
+            ],
+            "rotation": [
+                270.019775390625,
+                0.0,
+                0.0
+            ],
+            "boundsCenter": [
+                -0.5350000262260437,
+                0.7919999957084656,
+                -1.309999942779541
+            ],
+            "boundsSize": [
+                0.07595673203468323,
+                0.004000151064246893,
+                0.05525900796055794
+            ]
+        },
+        {
+            "path": "The Red Door — Stage 1 v12/Props_Static_v11/PROP_v04_Table02_PlayingCard_02",
+            "mesh": "PROP_v04_Table02_PlayingCard_02",
+            "position": [
+                -0.5899999737739563,
+                0.7929999828338623,
+                -1.309999942779541
+            ],
+            "rotation": [
+                270.019775390625,
+                0.0,
+                0.0
+            ],
+            "boundsCenter": [
+                -0.5899999737739563,
+                0.7929999828338623,
+                -1.309999942779541
+            ],
+            "boundsSize": [
+                0.07166368514299393,
+                0.004000142216682434,
+                0.04768341779708862
+            ]
+        },
+        {
+            "path": "The Red Door — Stage 1 v12/Props_Static_v11/PROP_v04_Table02_PlayingCard_03",
+            "mesh": "PROP_v04_Table02_PlayingCard_03",
+            "position": [
+                -0.6449999809265137,
+                0.7940000295639038,
+                -1.309999942779541
+            ],
+            "rotation": [
+                270.019775390625,
+                0.0,
+                0.0
+            ],
+            "boundsCenter": [
+                -0.6449999809265137,
+                0.7940000295639038,
+                -1.309999942779541
+            ],
+            "boundsSize": [
+                0.07321260124444962,
+                0.004000145476311445,
+                0.050290413200855258
+            ]
+        },
+        {
+            "path": "The Red Door — Stage 1 v12/Props_Static_v11/PROP_v04_Table02_TeaJar",
+            "mesh": "PROP_v04_Table02_TeaJar",
+            "position": [
+                -0.5299999713897705,
+                0.875,
+                -1.1200000047683716
+            ],
+            "rotation": [
+                270.019775390625,
+                0.0,
+                0.0
+            ],
+            "boundsCenter": [
+                -0.5299999713897705,
+                0.875,
+                -1.1200000047683716
+            ],
+            "boundsSize": [
+                0.08400040119886399,
+                0.2100003957748413,
+                0.08400041610002518
+            ]
+        },
+        {
+            "path": "The Red Door — Stage 1 v12/Props_Static_v11/PROP_v04_Table02_TeaJar_Lid",
+            "mesh": "PROP_v04_Table02_TeaJar_Lid",
+            "position": [
+                -0.5299999713897705,
+                0.9919999837875366,
+                -1.1200000047683716
+            ],
+            "rotation": [
+                270.019775390625,
+                0.0,
+                0.0
+            ],
+            "boundsCenter": [
+                -0.5299999713897705,
+                0.9919999837875366,
+                -1.1200000047683716
+            ],
+            "boundsSize": [
+                0.08800017088651657,
+                0.025000177323818208,
+                0.08800016343593598
+            ]
+        },
+        {
+            "path": "The Red Door — Stage 1 v12/Props_Static_v11/PROP_v04_Table02_TeaJar_Tea",
+            "mesh": "PROP_v04_Table02_TeaJar_Tea",
+            "position": [
+                -0.5299999713897705,
+                0.8349999785423279,
+                -1.1200000047683716
+            ],
+            "rotation": [
+                270.019775390625,
+                0.0,
+                0.0
+            ],
+            "boundsCenter": [
+                -0.5299999713897705,
+                0.8349999785423279,
+                -1.1200000047683716
+            ],
+            "boundsSize": [
+                0.07600021362304688,
+                0.11500021815299988,
+                0.07600022107362747
+            ]
+        },
+        {
+            "path": "The Red Door — Stage 1 v12/Props_Static_v11/PROP_v04_Wall_Timetable",
+            "mesh": "PROP_v04_Wall_Timetable",
+            "position": [
+                -3.3499999046325685,
+                1.4700000286102296,
+                -1.465000033378601
+            ],
+            "rotation": [
+                270.019775390625,
+                0.0,
+                0.0
+            ],
+            "boundsCenter": [
+                -3.3499999046325685,
+                1.4700000286102296,
+                -1.465000033378601
+            ],
+            "boundsSize": [
+                0.6200011968612671,
+                0.42000114917755129,
+                0.012001232244074345
+            ]
+        },
+        {
+            "path": "The Red Door — Stage 1 v12/Props_Static_v11/PROP_v04_Wall_TimetableLine_01",
+            "mesh": "PROP_v04_Wall_TimetableLine_01",
+            "position": [
+                -3.3499999046325685,
+                1.600000023841858,
+                -1.4570000171661378
+            ],
+            "rotation": [
+                270.019775390625,
+                0.0,
+                0.0
+            ],
+            "boundsCenter": [
+                -3.3499999046325685,
+                1.600000023841858,
+                -1.4570000171661378
+            ],
+            "boundsSize": [
+                0.44000083208084109,
+                0.01000083889812231,
+                0.006000840105116367
+            ]
+        },
+        {
+            "path": "The Red Door — Stage 1 v12/Props_Static_v11/PROP_v04_Wall_TimetableLine_02",
+            "mesh": "PROP_v04_Wall_TimetableLine_02",
+            "position": [
+                -3.3499999046325685,
+                1.534999966621399,
+                -1.4570000171661378
+            ],
+            "rotation": [
+                270.019775390625,
+                0.0,
+                0.0
+            ],
+            "boundsCenter": [
+                -3.3499999046325685,
+                1.534999966621399,
+                -1.4570000171661378
+            ],
+            "boundsSize": [
+                0.405000776052475,
+                0.010000771842896939,
+                0.006000773515552282
+            ]
+        },
+        {
+            "path": "The Red Door — Stage 1 v12/Props_Static_v11/PROP_v04_Wall_TimetableLine_03",
+            "mesh": "PROP_v04_Wall_TimetableLine_03",
+            "position": [
+                -3.3499999046325685,
+                1.4700000286102296,
+                -1.4570000171661378
+            ],
+            "rotation": [
+                270.019775390625,
+                0.0,
+                0.0
+            ],
+            "boundsCenter": [
+                -3.3499999046325685,
+                1.4700000286102296,
+                -1.4570000171661378
+            ],
+            "boundsSize": [
+                0.3700007200241089,
+                0.01000070571899414,
+                0.006000706925988197
+            ]
+        },
+        {
+            "path": "The Red Door — Stage 1 v12/Props_Static_v11/PROP_v04_Wall_TimetableLine_04",
+            "mesh": "PROP_v04_Wall_TimetableLine_04",
+            "position": [
+                -3.3499999046325685,
+                1.4049999713897706,
+                -1.4570000171661378
+            ],
+            "rotation": [
+                270.019775390625,
+                0.0,
+                0.0
+            ],
+            "boundsCenter": [
+                -3.3499999046325685,
+                1.4049999713897706,
+                -1.4570000171661378
+            ],
+            "boundsSize": [
+                0.3350006341934204,
+                0.010000638663768769,
+                0.006000639870762825
+            ]
+        },
+        {
+            "path": "The Red Door — Stage 1 v12/Props_Static_v11/PROP_v04_Wall_TimetableLine_05",
+            "mesh": "PROP_v04_Wall_TimetableLine_05",
+            "position": [
+                -3.3499999046325685,
+                1.340000033378601,
+                -1.4570000171661378
+            ],
+            "rotation": [
+                270.019775390625,
+                0.0,
+                0.0
+            ],
+            "boundsCenter": [
+                -3.3499999046325685,
+                1.340000033378601,
+                -1.4570000171661378
+            ],
+            "boundsSize": [
+                0.3000005781650543,
+                0.010000571608543396,
+                0.00600057328119874
+            ]
+        },
+        {
+            "path": "The Red Door — Stage 1 v12/Props_Static_v11/PROP_v04_Wall_UmbrellaCanopy",
+            "mesh": "PROP_v04_Wall_UmbrellaCanopy",
+            "position": [
+                -2.9800000190734865,
+                1.0499999523162842,
+                1.350000023841858
+            ],
+            "rotation": [
+                270.019775390625,
+                0.0,
+                0.0
+            ],
+            "boundsCenter": [
+                -2.957695484161377,
+                1.0420451164245606,
+                1.350000023841858
+            ],
+            "boundsSize": [
+                0.244116872549057,
+                0.2999098598957062,
+                0.2600005567073822
+            ]
+        },
+        {
+            "path": "The Red Door — Stage 1 v12/Props_Static_v11/PROP_v04_Wall_UmbrellaHandle",
+            "mesh": "PROP_v04_Wall_UmbrellaHandle",
+            "position": [
+                -3.1600000858306886,
+                0.07999999821186066,
+                1.309999942779541
+            ],
+            "rotation": [
+                270.019775390625,
+                0.0,
+                0.0
+            ],
+            "boundsCenter": [
+                -3.1600000858306886,
+                0.07999999821186066,
+                1.309999942779541
+            ],
+            "boundsSize": [
+                0.1340002566576004,
+                0.1340002417564392,
+                0.024000277742743493
+            ]
+        },
+        {
+            "path": "The Red Door — Stage 1 v12/Props_Static_v11/PROP_v04_Wall_UmbrellaShaft",
+            "mesh": "PROP_v04_Wall_UmbrellaShaft",
+            "position": [
+                -3.059999942779541,
+                0.5999999642372131,
+                1.3299999237060547
+            ],
+            "rotation": [
+                270.019775390625,
+                0.0,
+                0.0
+            ],
+            "boundsCenter": [
+                -3.059999942779541,
+                0.5999999642372131,
+                1.3299999237060547
+            ],
+            "boundsSize": [
+                0.2076350301504135,
+                1.1045207977294922,
+                0.0679841861128807
+            ]
+        },
+        {
+            "path": "The Red Door — Stage 1 v12/Props_Static_v11/PROP_v06_RackRight_WickerBasket_Base",
+            "mesh": "PROP_v06_RackRight_WickerBasket_Base",
+            "position": [
+                2.8499999046325685,
+                2.005000114440918,
+                1.159999966621399
+            ],
+            "rotation": [
+                270.019775390625,
+                0.0,
+                0.0
+            ],
+            "boundsCenter": [
+                2.8499999046325685,
+                2.005000114440918,
+                1.159999966621399
+            ],
+            "boundsSize": [
+                0.4600008726119995,
+                0.025000911206007005,
+                0.2900008261203766
+            ]
+        },
+        {
+            "path": "The Red Door — Stage 1 v12/Props_Static_v11/PROP_v06_RackRight_WickerBasket_Body",
+            "mesh": "PROP_v06_RackRight_WickerBasket_Body",
+            "position": [
+                2.8499999046325685,
+                2.109999895095825,
+                1.159999966621399
+            ],
+            "rotation": [
+                270.019775390625,
+                0.0,
+                0.0
+            ],
+            "boundsCenter": [
+                2.8499999046325685,
+                2.109999895095825,
+                1.159999966621399
+            ],
+            "boundsSize": [
+                0.5000009536743164,
+                0.2200009822845459,
+                0.32000094652175906
+            ]
+        },
+        {
+            "path": "The Red Door — Stage 1 v12/Props_Static_v11/PROP_v06_RackRight_WickerBasket_Handle_L",
+            "mesh": "PROP_v06_RackRight_WickerBasket_Handle_L",
+            "position": [
+                2.990000009536743,
+                2.2799999713897707,
+                1.159999966621399
+            ],
+            "rotation": [
+                270.019775390625,
+                0.0,
+                0.0
+            ],
+            "boundsCenter": [
+                2.990000009536743,
+                2.2799999713897707,
+                1.159999966621399
+            ],
+            "boundsSize": [
+                0.10146652907133103,
+                0.1707332879304886,
+                0.024000344797968866
+            ]
+        },
+        {
+            "path": "The Red Door — Stage 1 v12/Props_Static_v11/PROP_v06_RackRight_WickerBasket_Handle_R",
+            "mesh": "PROP_v06_RackRight_WickerBasket_Handle_R",
+            "position": [
+                2.7100000381469728,
+                2.2799999713897707,
+                1.159999966621399
+            ],
+            "rotation": [
+                270.019775390625,
+                0.0,
+                0.0
+            ],
+            "boundsCenter": [
+                2.7100000381469728,
+                2.2799999713897707,
+                1.159999966621399
+            ],
+            "boundsSize": [
+                0.10146649181842804,
+                0.17073330283164979,
+                0.024000344797968866
+            ]
+        },
+        {
+            "path": "The Red Door — Stage 1 v12/Props_Static_v11/PROP_v06_RackRight_WickerBasket_Handle_Top",
+            "mesh": "PROP_v06_RackRight_WickerBasket_Handle_Top",
+            "position": [
+                2.8499999046325685,
+                2.359999895095825,
+                1.159999966621399
+            ],
+            "rotation": [
+                270.019775390625,
+                0.0,
+                0.0
+            ],
+            "boundsCenter": [
+                2.8499999046325685,
+                2.359999895095825,
+                1.159999966621399
+            ],
+            "boundsSize": [
+                0.20000043511390687,
+                0.024000391364097596,
+                0.024000383913517
+            ]
+        },
+        {
+            "path": "The Red Door — Stage 1 v12/Props_Static_v11/PROP_v06_RackRight_WickerBasket_Slat_1",
+            "mesh": "PROP_v06_RackRight_WickerBasket_Slat_1",
+            "position": [
+                3.009999990463257,
+                2.109999895095825,
+                0.9940000176429749
+            ],
+            "rotation": [
+                270.019775390625,
+                0.0,
+                0.0
+            ],
+            "boundsCenter": [
+                3.009999990463257,
+                2.109999895095825,
+                0.9940000176429749
+            ],
+            "boundsSize": [
+                0.02500034309923649,
+                0.18000033497810365,
+                0.018000362440943719
+            ]
+        },
+        {
+            "path": "The Red Door — Stage 1 v12/Props_Static_v11/PROP_v06_RackRight_WickerBasket_Slat_2",
+            "mesh": "PROP_v06_RackRight_WickerBasket_Slat_2",
+            "position": [
+                2.8499999046325685,
+                2.109999895095825,
+                0.9940000176429749
+            ],
+            "rotation": [
+                270.019775390625,
+                0.0,
+                0.0
+            ],
+            "boundsCenter": [
+                2.8499999046325685,
+                2.109999895095825,
+                0.9940000176429749
+            ],
+            "boundsSize": [
+                0.02500034309923649,
+                0.18000033497810365,
+                0.018000362440943719
+            ]
+        },
+        {
+            "path": "The Red Door — Stage 1 v12/Props_Static_v11/PROP_v06_RackRight_WickerBasket_Slat_3",
+            "mesh": "PROP_v06_RackRight_WickerBasket_Slat_3",
+            "position": [
+                2.690000057220459,
+                2.109999895095825,
+                0.9940000176429749
+            ],
+            "rotation": [
+                270.019775390625,
+                0.0,
+                0.0
+            ],
+            "boundsCenter": [
+                2.690000057220459,
+                2.109999895095825,
+                0.9940000176429749
+            ],
+            "boundsSize": [
+                0.02500034309923649,
+                0.18000033497810365,
+                0.018000362440943719
+            ]
+        },
+        {
+            "path": "The Red Door — Stage 1 v12/Props_Static_v11/PROP_v06_Row01_Boot_L_Cuff",
+            "mesh": "PROP_v06_Row01_Boot_L_Cuff",
+            "position": [
+                2.7300000190734865,
+                0.17000000178813935,
+                1.1200000047683716
+            ],
+            "rotation": [
+                270.019775390625,
+                0.0,
+                0.0
+            ],
+            "boundsCenter": [
+                2.7300000190734865,
+                0.17000000178813935,
+                1.1200000047683716
+            ],
+            "boundsSize": [
+                0.12529049813747407,
+                0.18000034987926484,
+                0.12070608139038086
+            ]
+        },
+        {
+            "path": "The Red Door — Stage 1 v12/Props_Static_v11/PROP_v06_Row01_Boot_L_Foot",
+            "mesh": "PROP_v06_Row01_Boot_L_Foot",
+            "position": [
+                2.619999885559082,
+                0.08500000089406967,
+                1.1200000047683716
+            ],
+            "rotation": [
+                270.019775390625,
+                0.0,
+                0.0
+            ],
+            "boundsCenter": [
+                2.619999885559082,
+                0.08500000089406967,
+                1.1200000047683716
+            ],
+            "boundsSize": [
+                0.2868313789367676,
+                0.11685002595186234,
+                0.13694635033607484
+            ]
+        },
+        {
+            "path": "The Red Door — Stage 1 v12/Props_Static_v11/PROP_v06_Row01_Boot_R_Cuff",
+            "mesh": "PROP_v06_Row01_Boot_R_Cuff",
+            "position": [
+                3.0299999713897707,
+                0.16500000655651093,
+                1.0399999618530274
+            ],
+            "rotation": [
+                270.019775390625,
+                0.0,
+                0.0
+            ],
+            "boundsCenter": [
+                3.0299999713897707,
+                0.16500000655651093,
+                1.0399999618530274
+            ],
+            "boundsSize": [
+                0.124041847884655,
+                0.17500032484531403,
+                0.11935067921876908
+            ]
+        },
+        {
+            "path": "The Red Door — Stage 1 v12/Props_Static_v11/PROP_v06_Row01_Boot_R_Foot",
+            "mesh": "PROP_v06_Row01_Boot_R_Foot",
+            "position": [
+                2.930000066757202,
+                0.0820000022649765,
+                1.0399999618530274
+            ],
+            "rotation": [
+                270.019775390625,
+                0.0,
+                0.0
+            ],
+            "boundsCenter": [
+                2.930000066757202,
+                0.0820000022649765,
+                1.0399999618530274
+            ],
+            "boundsSize": [
+                0.28563040494918826,
+                0.10957924276590347,
+                0.13251791894435883
+            ]
+        },
+        {
+            "path": "The Red Door — Stage 1 v12/Props_Static_v11/PROP_v06_Row06_CanvasTote_Body",
+            "mesh": "PROP_v06_Row06_CanvasTote_Body",
+            "position": [
+                -4.519999980926514,
+                0.20999999344348908,
+                -1.1399999856948853
+            ],
+            "rotation": [
+                270.019775390625,
+                0.0,
+                0.0
+            ],
+            "boundsCenter": [
+                -4.519999980926514,
+                0.20999999344348908,
+                -1.1399999856948853
+            ],
+            "boundsSize": [
+                0.3471841514110565,
+                0.3400006592273712,
+                0.19706633687019349
+            ]
+        },
+        {
+            "path": "The Red Door — Stage 1 v12/Props_Static_v11/PROP_v06_Row06_CanvasTote_Handle",
+            "mesh": "PROP_v06_Row06_CanvasTote_Handle",
+            "position": [
+                -4.519999980926514,
+                0.4300000071525574,
+                -1.1399999856948853
+            ],
+            "rotation": [
+                270.019775390625,
+                0.0,
+                0.0
+            ],
+            "boundsCenter": [
+                -4.519999980926514,
+                0.4300000071525574,
+                -1.1399999856948853
+            ],
+            "boundsSize": [
+                0.23400044441223145,
+                0.23400042951107026,
+                0.024000490084290506
+            ]
+        },
+        {
+            "path": "The Red Door — Stage 1 v12/Props_Static_v11/PROP_v06_Row06_CanvasTote_Trim",
+            "mesh": "PROP_v06_Row06_CanvasTote_Trim",
+            "position": [
+                -4.519999980926514,
+                0.28999999165534975,
+                -1.0449999570846558
+            ],
+            "rotation": [
+                270.019775390625,
+                0.0,
+                0.0
+            ],
+            "boundsCenter": [
+                -4.519999980926514,
+                0.28999999165534975,
+                -1.0449999570846558
+            ],
+            "boundsSize": [
+                0.3098025321960449,
+                0.03500059247016907,
+                0.03583747521042824
+            ]
+        },
+        {
+            "path": "The Red Door — Stage 1 v12/Props_Static_v11/PROP_v06_Table03_Glasses_Arm_L",
+            "mesh": "PROP_v06_Table03_Glasses_Arm_L",
+            "position": [
+                -3.2350001335144045,
+                0.7935000061988831,
+                -1.1649999618530274
+            ],
+            "rotation": [
+                270.019775390625,
+                0.0,
+                0.0
+            ],
+            "boundsCenter": [
+                -3.2350001335144045,
+                0.7935000061988831,
+                -1.1649999618530274
+            ],
+            "boundsSize": [
+                0.03547249361872673,
+                0.006514579989016056,
+                0.07235564291477204
+            ]
+        },
+        {
+            "path": "The Red Door — Stage 1 v12/Props_Static_v11/PROP_v06_Table03_Glasses_Arm_R",
+            "mesh": "PROP_v06_Table03_Glasses_Arm_R",
+            "position": [
+                -3.3975000381469728,
+                0.7935000061988831,
+                -1.1649999618530274
+            ],
+            "rotation": [
+                270.019775390625,
+                0.0,
+                0.0
+            ],
+            "boundsCenter": [
+                -3.3975000381469728,
+                0.7935000061988831,
+                -1.1649999618530274
+            ],
+            "boundsSize": [
+                0.03055393509566784,
+                0.00665012001991272,
+                0.07199905067682266
+            ]
+        },
+        {
+            "path": "The Red Door — Stage 1 v12/Props_Static_v11/PROP_v06_Table03_Glasses_Bridge",
+            "mesh": "PROP_v06_Table03_Glasses_Bridge",
+            "position": [
+                -3.317500114440918,
+                0.7929999828338623,
+                -1.1299999952316285
+            ],
+            "rotation": [
+                270.019775390625,
+                0.0,
+                0.0
+            ],
+            "boundsCenter": [
+                -3.317500114440918,
+                0.7929999828338623,
+                -1.1299999952316285
+            ],
+            "boundsSize": [
+                0.016999991610646249,
+                0.0051961857825517658,
+                0.006000032648444176
+            ]
+        },
+        {
+            "path": "The Red Door — Stage 1 v12/Props_Static_v11/PROP_v06_Table03_Glasses_Lens_L",
+            "mesh": "PROP_v06_Table03_Glasses_Lens_L",
+            "position": [
+                -3.2799999713897707,
+                0.7919999957084656,
+                -1.1299999952316285
+            ],
+            "rotation": [
+                270.019775390625,
+                0.0,
+                0.0
+            ],
+            "boundsCenter": [
+                -3.2799999713897707,
+                0.7919999957084656,
+                -1.1299999952316285
+            ],
+            "boundsSize": [
+                0.07000013440847397,
+                0.008000141009688378,
+                0.07000012695789337
+            ]
+        },
+        {
+            "path": "The Red Door — Stage 1 v12/Props_Static_v11/PROP_v06_Table03_Glasses_Lens_R",
+            "mesh": "PROP_v06_Table03_Glasses_Lens_R",
+            "position": [
+                -3.3550000190734865,
+                0.7919999957084656,
+                -1.1299999952316285
+            ],
+            "rotation": [
+                270.019775390625,
+                0.0,
+                0.0
+            ],
+            "boundsCenter": [
+                -3.3550000190734865,
+                0.7919999957084656,
+                -1.1299999952316285
+            ],
+            "boundsSize": [
+                0.07000013440847397,
+                0.008000141009688378,
+                0.07000012695789337
+            ]
+        },
+        {
+            "path": "The Red Door — Stage 1 v12/Props_Static_v11/PROP_v06_Table03_Radio_Antenna",
+            "mesh": "PROP_v06_Table03_Radio_Antenna",
+            "position": [
+                -3.804999828338623,
+                1.0049999952316285,
+                1.2999999523162842
+            ],
+            "rotation": [
+                270.019775390625,
+                0.0,
+                0.0
+            ],
+            "boundsCenter": [
+                -3.804999828338623,
+                1.0049999952316285,
+                1.2999999523162842
+            ],
+            "boundsSize": [
+                0.07650133222341538,
+                0.19239546358585359,
+                0.0080003896728158
+            ]
+        },
+        {
+            "path": "The Red Door — Stage 1 v12/Props_Static_v11/PROP_v06_Table03_Radio_Body",
+            "mesh": "PROP_v06_Table03_Radio_Body",
+            "position": [
+                -3.7300000190734865,
+                0.8399999737739563,
+                1.2999999523162842
+            ],
+            "rotation": [
+                270.019775390625,
+                0.0,
+                0.0
+            ],
+            "boundsCenter": [
+                -3.7300000190734865,
+                0.8399999737739563,
+                1.2999999523162842
+            ],
+            "boundsSize": [
+                0.18000034987926484,
+                0.1400003433227539,
+                0.10000035166740418
+            ]
+        },
+        {
+            "path": "The Red Door — Stage 1 v12/Props_Static_v11/PROP_v06_Table03_Radio_Face",
+            "mesh": "PROP_v06_Table03_Radio_Face",
+            "position": [
+                -3.7300000190734865,
+                0.8399999737739563,
+                1.246000051498413
+            ],
+            "rotation": [
+                270.019775390625,
+                0.0,
+                0.0
+            ],
+            "boundsCenter": [
+                -3.7300000190734865,
+                0.8399999737739563,
+                1.246000051498413
+            ],
+            "boundsSize": [
+                0.14500027894973756,
+                0.0950002670288086,
+                0.008000287227332592
+            ]
+        },
+        {
+            "path": "The Red Door — Stage 1 v12/Props_Static_v11/PROP_v06_Table03_Radio_Knob_A",
+            "mesh": "PROP_v06_Table03_Radio_Knob_A",
+            "position": [
+                -3.7750000953674318,
+                0.8650000095367432,
+                1.2380000352859498
+            ],
+            "rotation": [
+                270.019775390625,
+                0.0,
+                0.0
+            ],
+            "boundsCenter": [
+                -3.7750000953674318,
+                0.8650000095367432,
+                1.2380000352859498
+            ],
+            "boundsSize": [
+                0.02282540313899517,
+                0.024000046774744989,
+                0.010000048205256462
+            ]
+        },
+        {
+            "path": "The Red Door — Stage 1 v12/Props_Static_v11/PROP_v06_Table03_Radio_Knob_B",
+            "mesh": "PROP_v06_Table03_Radio_Knob_B",
+            "position": [
+                -3.7750000953674318,
+                0.8149999976158142,
+                1.2380000352859498
+            ],
+            "rotation": [
+                270.019775390625,
+                0.0,
+                0.0
+            ],
+            "boundsCenter": [
+                -3.7750000953674318,
+                0.8149999976158142,
+                1.2380000352859498
+            ],
+            "boundsSize": [
+                0.0190211683511734,
+                0.02000003680586815,
+                0.010000040754675866
+            ]
+        },
+        {
+            "path": "The Red Door — Stage 1 v12/Props_Static_v11/PROP_v06_Table03_Radio_Speaker",
+            "mesh": "PROP_v06_Table03_Radio_Speaker",
+            "position": [
+                -3.700000047683716,
+                0.8399999737739563,
+                1.2389999628067017
+            ],
+            "rotation": [
+                270.019775390625,
+                0.0,
+                0.0
+            ],
+            "boundsCenter": [
+                -3.700000047683716,
+                0.8399999737739563,
+                1.2389999628067017
+            ],
+            "boundsSize": [
+                0.06600012630224228,
+                0.06600011885166168,
+                0.00800013542175293
+            ]
+        },
+        {
+            "path": "The Red Door — Stage 1 v12/Props_Static_v11/PROP_v06_Table03_SpectacleCase",
+            "mesh": "PROP_v06_Table03_SpectacleCase",
+            "position": [
+                -3.2699999809265138,
+                0.7919999957084656,
+                -1.3200000524520875
+            ],
+            "rotation": [
+                270.019775390625,
+                0.0,
+                0.0
+            ],
+            "boundsCenter": [
+                -3.2699999809265138,
+                0.7919999957084656,
+                -1.3200000524520875
+            ],
+            "boundsSize": [
+                0.18369345366954804,
+                0.03600035607814789,
+                0.08522465825080872
+            ]
+        },
+        {
+            "path": "The Red Door — Stage 1 v12/Props_Static_v11/PROP_v07_RackLeft_Cardboard_A",
+            "mesh": "PROP_v07_RackLeft_Cardboard_A",
+            "position": [
+                -1.340000033378601,
+                1.9700000286102296,
+                -1.159999966621399
+            ],
+            "rotation": [
+                270.019775390625,
+                0.0,
+                0.0
+            ],
+            "boundsCenter": [
+                -1.340000033378601,
+                2.1276450157165529,
+                -1.159999966621399
+            ],
+            "boundsSize": [
+                0.4168839454650879,
+                0.31529101729393008,
+                0.35636937618255618
+            ]
+        },
+        {
+            "path": "The Red Door — Stage 1 v12/Props_Static_v11/PROP_v07_RackLeft_HardCase_A",
+            "mesh": "PROP_v07_RackLeft_HardCase_A",
+            "position": [
+                -0.6600000262260437,
+                1.9700000286102296,
+                -1.159999966621399
+            ],
+            "rotation": [
+                270.019775390625,
+                0.0,
+                0.0
+            ],
+            "boundsCenter": [
+                -0.6600000262260437,
+                2.1603000164031984,
+                -1.159999966621399
+            ],
+            "boundsSize": [
+                0.5191115736961365,
+                0.3806012272834778,
+                0.3249673545360565
+            ]
+        },
+        {
+            "path": "The Red Door — Stage 1 v12/Props_Static_v11/PROP_v07_RackLeft_HardCase_B",
+            "mesh": "PROP_v07_RackLeft_HardCase_B",
+            "position": [
+                -2.7200000286102297,
+                1.9700000286102296,
+                -1.159999966621399
+            ],
+            "rotation": [
+                270.019775390625,
+                0.0,
+                0.0
+            ],
+            "boundsCenter": [
+                -2.7200000286102297,
+                2.1775999069213869,
+                -1.159999966621399
+            ],
+            "boundsSize": [
+                0.5634609460830689,
+                0.415201336145401,
+                0.3710305094718933
+            ]
+        },
+        {
+            "path": "The Red Door — Stage 1 v12/Props_Static_v11/PROP_v07_RackLeft_TravelBag_A",
+            "mesh": "PROP_v07_RackLeft_TravelBag_A",
+            "position": [
+                -1.9800000190734864,
+                1.9700000286102296,
+                -1.159999966621399
+            ],
+            "rotation": [
+                270.019775390625,
+                0.0,
+                0.0
+            ],
+            "boundsCenter": [
+                -1.9800000190734864,
+                2.155975103378296,
+                -1.159999966621399
+            ],
+            "boundsSize": [
+                0.46733328700065615,
+                0.371951162815094,
+                0.3187975287437439
+            ]
+        },
+        {
+            "path": "The Red Door — Stage 1 v12/Props_Static_v11/PROP_v07_RackRight_Cardboard_A",
+            "mesh": "PROP_v07_RackRight_Cardboard_A",
+            "position": [
+                2.1600000858306886,
+                1.9700000286102296,
+                1.159999966621399
+            ],
+            "rotation": [
+                270.019775390625,
+                0.0,
+                0.0
+            ],
+            "boundsCenter": [
+                2.1600000858306886,
+                2.1295676231384279,
+                1.159999966621399
+            ],
+            "boundsSize": [
+                0.4200170934200287,
+                0.31913599371910097,
+                0.36033037304878237
+            ]
+        },
+        {
+            "path": "The Red Door — Stage 1 v12/Props_Static_v11/PROP_v07_RackRight_HardCase_A",
+            "mesh": "PROP_v07_RackRight_HardCase_A",
+            "position": [
+                4.340000152587891,
+                1.9700000286102296,
+                1.159999966621399
+            ],
+            "rotation": [
+                270.019775390625,
+                0.0,
+                0.0
+            ],
+            "boundsCenter": [
+                4.340000152587891,
+                2.1646249294281008,
+                1.159999966621399
+            ],
+            "boundsSize": [
+                0.5438917875289917,
+                0.3892512321472168,
+                0.32595911622047427
+            ]
+        },
+        {
+            "path": "The Red Door — Stage 1 v12/Props_Static_v11/PROP_v07_RackRight_HardCase_B",
+            "mesh": "PROP_v07_RackRight_HardCase_B",
+            "position": [
+                1.4800000190734864,
+                1.9700000286102296,
+                1.159999966621399
+            ],
+            "rotation": [
+                270.019775390625,
+                0.0,
+                0.0
+            ],
+            "boundsCenter": [
+                1.4800000190734864,
+                2.1386749744415285,
+                1.159999966621399
+            ],
+            "boundsSize": [
+                0.49317529797554018,
+                0.33735108375549319,
+                0.3444805145263672
+            ]
+        },
+        {
+            "path": "The Red Door — Stage 1 v12/Props_Static_v11/PROP_v07_RackRight_TravelBag_A",
+            "mesh": "PROP_v07_RackRight_TravelBag_A",
+            "position": [
+                3.619999885559082,
+                1.9700000286102296,
+                1.159999966621399
+            ],
+            "rotation": [
+                270.019775390625,
+                0.0,
+                0.0
+            ],
+            "boundsCenter": [
+                3.619999885559082,
+                2.147325038909912,
+                1.159999966621399
+            ],
+            "boundsSize": [
+                0.42601078748703005,
+                0.3546510636806488,
+                0.28623390197753909
+            ]
+        },
+        {
+            "path": "The Red Door — Stage 1 v12/Props_Static_v11/PROP_v07_Row01_UnderSeatCase",
+            "mesh": "PROP_v07_Row01_UnderSeatCase",
+            "position": [
+                2.7200000286102297,
+                0.02500000037252903,
+                -1.1399999856948853
+            ],
+            "rotation": [
+                270.019775390625,
+                0.0,
+                0.0
+            ],
+            "boundsCenter": [
+                2.7200000286102297,
+                0.1655624806880951,
+                -1.1399999856948853
+            ],
+            "boundsSize": [
+                0.411348432302475,
+                0.28112590312957766,
+                0.24860064685344697
+            ]
+        },
+        {
+            "path": "The Red Door — Stage 1 v12/Props_Static_v11/PROP_v07_Row06_UnderSeatCase",
+            "mesh": "PROP_v07_Row06_UnderSeatCase",
+            "position": [
+                -4.449999809265137,
+                0.02500000037252903,
+                1.1399999856948853
+            ],
+            "rotation": [
+                270.019775390625,
+                0.0,
+                0.0
+            ],
+            "boundsCenter": [
+                -4.449999809265137,
+                0.17204999923706056,
+                1.1399999856948853
+            ],
+            "boundsSize": [
+                0.4568462371826172,
+                0.2941009998321533,
+                0.25324347615242007
+            ]
+        },
+        {
+            "path": "The Red Door — Stage 1 v12/Props_Static_v11/PROP_v08_Row01_Left_SideCase",
+            "mesh": "PROP_v08_Row01_Left_SideCase",
+            "position": [
+                3.4200000762939455,
+                0.02500000037252903,
+                -1.2200000286102296
+            ],
+            "rotation": [
+                270.019775390625,
+                0.0,
+                0.0
+            ],
+            "boundsCenter": [
+                3.4200000762939455,
+                0.3385624885559082,
+                -1.2200000286102296
+            ],
+            "boundsSize": [
+                0.4731080234050751,
+                0.6271266341209412,
+                0.22542259097099305
+            ]
+        },
+        {
+            "path": "The Red Door — Stage 1 v12/Props_Static_v11/PROP_v08_Row01_Right_SideCase",
+            "mesh": "PROP_v08_Row01_Right_SideCase",
+            "position": [
+                3.4200000762939455,
+                0.02500000037252903,
+                1.2200000286102296
+            ],
+            "rotation": [
+                270.019775390625,
+                0.0,
+                0.0
+            ],
+            "boundsCenter": [
+                3.4200000762939455,
+                0.3147749900817871,
+                1.2200000286102296
+            ],
+            "boundsSize": [
+                0.44640153646469118,
+                0.5795515179634094,
+                0.22100159525871278
+            ]
+        },
+        {
+            "path": "The Red Door — Stage 1 v12/Props_Static_v11/PROP_v08_Row02_Left_UnderSeatBag",
+            "mesh": "PROP_v08_Row02_Left_UnderSeatBag",
+            "position": [
+                0.800000011920929,
+                0.02500000037252903,
+                -1.3300000429153443
+            ],
+            "rotation": [
+                270.019775390625,
+                0.0,
+                0.0
+            ],
+            "boundsCenter": [
+                0.800000011920929,
+                0.13744999468326569,
+                -1.3300000429153443
+            ],
+            "boundsSize": [
+                0.32932764291763308,
+                0.2249007374048233,
+                0.15475131571292878
+            ]
+        },
+        {
+            "path": "The Red Door — Stage 1 v12/Props_Static_v11/PROP_v08_Row03_Right_UnderSeatCase",
+            "mesh": "PROP_v08_Row03_Right_UnderSeatCase",
+            "position": [
+                0.10000000149011612,
+                0.02500000037252903,
+                1.3300000429153443
+            ],
+            "rotation": [
+                270.019775390625,
+                0.0,
+                0.0
+            ],
+            "boundsCenter": [
+                0.10000000149011612,
+                0.13312499225139619,
+                1.3300000429153443
+            ],
+            "boundsSize": [
+                0.35166653990745547,
+                0.21625074744224549,
+                0.17424370348453523
+            ]
+        },
+        {
+            "path": "The Red Door — Stage 1 v12/Props_Static_v11/PROP_v08_Row04_Right_UnderSeatBag",
+            "mesh": "PROP_v08_Row04_Right_UnderSeatBag",
+            "position": [
+                -1.7999999523162842,
+                0.02500000037252903,
+                1.3300000429153443
+            ],
+            "rotation": [
+                270.019775390625,
+                0.0,
+                0.0
+            ],
+            "boundsCenter": [
+                -1.7999999523162842,
+                0.13312499225139619,
+                1.3300000429153443
+            ],
+            "boundsSize": [
+                0.3215307295322418,
+                0.2162507176399231,
+                0.1486937701702118
+            ]
+        },
+        {
+            "path": "The Red Door — Stage 1 v12/Props_Static_v11/PROP_v08_Row05_Right_UnderSeatCase",
+            "mesh": "PROP_v08_Row05_Right_UnderSeatCase",
+            "position": [
+                -2.5,
+                0.02500000037252903,
+                1.3300000429153443
+            ],
+            "rotation": [
+                270.019775390625,
+                0.0,
+                0.0
+            ],
+            "boundsCenter": [
+                -2.5,
+                0.12879998981952668,
+                1.3300000429153443
+            ],
+            "boundsSize": [
+                0.33721157908439639,
+                0.20760071277618409,
+                0.1490897536277771
+            ]
+        },
+        {
+            "path": "The Red Door — Stage 1 v12/Props_Static_v11/PROP_v08_Row06_Left_SideCase",
+            "mesh": "PROP_v08_Row06_Left_SideCase",
+            "position": [
+                -5.039999961853027,
+                0.02500000037252903,
+                -1.2200000286102296
+            ],
+            "rotation": [
+                270.019775390625,
+                0.0,
+                0.0
+            ],
+            "boundsCenter": [
+                -5.039999961853027,
+                0.3061249554157257,
+                -1.2200000286102296
+            ],
+            "boundsSize": [
+                0.4634392559528351,
+                0.5622514486312866,
+                0.26166778802871706
+            ]
+        },
+        {
+            "path": "The Red Door — Stage 1 v12/Props_Static_v11/PROP_v08_Row06_Right_SideCase",
+            "mesh": "PROP_v08_Row06_Right_SideCase",
+            "position": [
+                -5.039999961853027,
+                0.02500000037252903,
+                1.2200000286102296
+            ],
+            "rotation": [
+                270.019775390625,
+                0.0,
+                0.0
+            ],
+            "boundsCenter": [
+                -5.039999961853027,
+                0.32342496514320376,
+                1.2200000286102296
+            ],
+            "boundsSize": [
+                0.4525657296180725,
+                0.5968515276908875,
+                0.2642359137535095
+            ]
+        },
+        {
+            "path": "The Red Door — Stage 1 v12/Props_Static_v11/PROP_Vestibule_TrashBin_Body",
+            "mesh": "PROP_Vestibule_TrashBin_Body",
+            "position": [
+                -6.019999980926514,
+                0.1899999976158142,
+                -1.149999976158142
+            ],
+            "rotation": [
+                270.019775390625,
+                0.0,
+                0.0
+            ],
+            "boundsCenter": [
+                -6.019999980926514,
+                0.1899999976158142,
+                -1.149999976158142
+            ],
+            "boundsSize": [
+                0.3400006592273712,
+                0.3400006592273712,
+                0.3400006592273712
+            ]
+        },
+        {
+            "path": "The Red Door — Stage 1 v12/Props_Static_v11/PROP_Vestibule_TrashBin_Inside",
+            "mesh": "PROP_Vestibule_TrashBin_Inside",
+            "position": [
+                -6.019999980926514,
+                0.36800000071525576,
+                -1.149999976158142
+            ],
+            "rotation": [
+                270.019775390625,
+                0.0,
+                0.0
+            ],
+            "boundsCenter": [
+                -6.019999980926514,
+                0.36800000071525576,
+                -1.149999976158142
+            ],
+            "boundsSize": [
+                0.2900005578994751,
+                0.01000058650970459,
+                0.2900005280971527
+            ]
+        },
+        {
+            "path": "The Red Door — Stage 1 v12/Props_Static_v11/PROP_Vestibule_TrashBin_Rim",
+            "mesh": "PROP_Vestibule_TrashBin_Rim",
+            "position": [
+                -6.019999980926514,
+                0.3700000047683716,
+                -1.149999976158142
+            ],
+            "rotation": [
+                270.019775390625,
+                0.0,
+                0.0
+            ],
+            "boundsCenter": [
+                -6.019999980926514,
+                0.3700000047683716,
+                -1.149999976158142
+            ],
+            "boundsSize": [
+                0.36400067806243899,
+                0.024000735953450204,
+                0.3640006482601166
+            ]
+        }
+    ],
+    "doorRenderers": [
+        {
+            "path": "The Red Door — Stage 1 v12/RedDoors_Interactive_TODO/INT_RD1",
+            "mesh": "INT_RD1",
+            "position": [
+                -5.559999942779541,
+                0.0,
+                0.0
+            ],
+            "rotation": [
+                270.019775390625,
+                0.0,
+                0.0
+            ],
+            "boundsCenter": [
+                -5.559999942779541,
+                1.029999852180481,
+                -1.2278556482669956e-7
+            ],
+            "boundsSize": [
+                0.07500484585762024,
+                2.060004472732544,
+                0.960004985332489
+            ]
+        },
+        {
+            "path": "The Red Door — Stage 1 v12/RedDoors_Interactive_TODO/INT_RD1/GEO_RD1_Glass",
+            "mesh": "GEO_RD1_Glass",
+            "position": [
+                -5.559999942779541,
+                0.0,
+                0.0
+            ],
+            "rotation": [
+                270.019775390625,
+                0.0,
+                0.0
+            ],
+            "boundsCenter": [
+                -5.549999713897705,
+                1.0149998664855958,
+                -1.209974271887404e-7
+            ],
+            "boundsSize": [
+                0.02000408060848713,
+                1.550004005432129,
+                0.7000041604042053
+            ]
+        },
+        {
+            "path": "The Red Door — Stage 1 v12/RedDoors_Interactive_TODO/INT_RD1/GEO_RD1_Handle",
+            "mesh": "GEO_RD1_Handle",
+            "position": [
+                -5.559999942779541,
+                0.0,
+                0.0
+            ],
+            "rotation": [
+                270.019775390625,
+                0.0,
+                0.0
+            ],
+            "boundsCenter": [
+                -5.606249809265137,
+                1.0199998617172242,
+                -0.2850000858306885
+            ],
+            "boundsSize": [
+                0.13250252604484559,
+                0.3850024938583374,
+                0.05500257387757301
+            ]
+        },
+        {
+            "path": "The Red Door — Stage 1 v12/RedDoors_Interactive_TODO/INT_RD2",
+            "mesh": "INT_RD2",
+            "position": [
+                5.559999942779541,
+                0.0,
+                0.47999998927116396
+            ],
+            "rotation": [
+                270.019775390625,
+                0.0,
+                0.0
+            ],
+            "boundsCenter": [
+                5.548999786376953,
+                1.029999852180481,
+                -8.940696716308594e-8
+            ],
+            "boundsSize": [
+                0.13200408220291139,
+                2.0600037574768068,
+                0.9600042104721069
+            ]
+        },
+        {
+            "path": "The Red Door — Stage 1 v12/RedDoors_Interactive_TODO/INT_RD2/GEO_RD2_Handle",
+            "mesh": "GEO_RD2_Handle",
+            "position": [
+                5.559999942779541,
+                0.0,
+                0.47999998927116396
+            ],
+            "rotation": [
+                270.019775390625,
+                0.0,
+                0.0
+            ],
+            "boundsCenter": [
+                5.485000133514404,
+                1.0199997425079346,
+                -0.27000007033348086
+            ],
+            "boundsSize": [
+                0.1400025337934494,
+                0.3250024914741516,
+                0.060002509504556659
+            ]
+        }
+    ],
+    "markers": [
+        {
+            "path": "The Red Door — Stage 1 v12/Markers_v11",
+            "mesh": "",
+            "position": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "rotation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "boundsCenter": [],
+            "boundsSize": []
+        },
+        {
+            "path": "The Red Door — Stage 1 v12/Markers_v11/ANCHOR_RD1",
+            "mesh": "",
+            "position": [
+                -5.559999942779541,
+                1.0299999713897706,
+                0.0
+            ],
+            "rotation": [
+                270.019775390625,
+                0.0,
+                0.0
+            ],
+            "boundsCenter": [],
+            "boundsSize": []
+        },
+        {
+            "path": "The Red Door — Stage 1 v12/Markers_v11/ANCHOR_RD2",
+            "mesh": "",
+            "position": [
+                5.559999942779541,
+                1.0299999713897706,
+                0.0
+            ],
+            "rotation": [
+                270.019775390625,
+                0.0,
+                0.0
+            ],
+            "boundsCenter": [],
+            "boundsSize": []
+        },
+        {
+            "path": "The Red Door — Stage 1 v12/Markers_v11/AUDIO_CARRIAGE_BLEED",
+            "mesh": "",
+            "position": [
+                -5.079999923706055,
+                1.2000000476837159,
+                0.0
+            ],
+            "rotation": [
+                270.019775390625,
+                0.0,
+                0.0
+            ],
+            "boundsCenter": [],
+            "boundsSize": []
+        },
+        {
+            "path": "The Red Door — Stage 1 v12/Markers_v11/AUDIO_PASSENGER_LEFT_01",
+            "mesh": "",
+            "position": [
+                0.949999988079071,
+                1.25,
+                -0.9800000190734863
+            ],
+            "rotation": [
+                270.019775390625,
+                0.0,
+                0.0
+            ],
+            "boundsCenter": [],
+            "boundsSize": []
+        },
+        {
+            "path": "The Red Door — Stage 1 v12/Markers_v11/AUDIO_PASSENGER_RIGHT_01",
+            "mesh": "",
+            "position": [
+                -1.0499999523162842,
+                1.25,
+                0.9800000190734863
+            ],
+            "rotation": [
+                270.019775390625,
+                0.0,
+                0.0
+            ],
+            "boundsCenter": [],
+            "boundsSize": []
+        },
+        {
+            "path": "The Red Door — Stage 1 v12/Markers_v11/AUDIO_PHONE_CALL",
+            "mesh": "",
+            "position": [
+                -3.1500000953674318,
+                1.2000000476837159,
+                -0.8999999761581421
+            ],
+            "rotation": [
+                270.019775390625,
+                0.0,
+                0.0
+            ],
+            "boundsCenter": [],
+            "boundsSize": []
+        },
+        {
+            "path": "The Red Door — Stage 1 v12/Markers_v11/AUDIO_TRAIN_LOW_FREQ",
+            "mesh": "",
+            "position": [
+                0.0,
+                0.20000000298023225,
+                0.0
+            ],
+            "rotation": [
+                270.019775390625,
+                0.0,
+                0.0
+            ],
+            "boundsCenter": [],
+            "boundsSize": []
+        },
+        {
+            "path": "The Red Door — Stage 1 v12/Markers_v11/AUDIO_WHEEL_LEFT",
+            "mesh": "",
+            "position": [
+                0.0,
+                0.18000000715255738,
+                -1.2999999523162842
+            ],
+            "rotation": [
+                270.019775390625,
+                0.0,
+                0.0
+            ],
+            "boundsCenter": [],
+            "boundsSize": []
+        },
+        {
+            "path": "The Red Door — Stage 1 v12/Markers_v11/AUDIO_WHEEL_RIGHT",
+            "mesh": "",
+            "position": [
+                0.0,
+                0.18000000715255738,
+                1.2999999523162842
+            ],
+            "rotation": [
+                270.019775390625,
+                0.0,
+                0.0
+            ],
+            "boundsCenter": [],
+            "boundsSize": []
+        },
+        {
+            "path": "The Red Door — Stage 1 v12/Markers_v11/PLAYER_START",
+            "mesh": "",
+            "position": [
+                -7.059999942779541,
+                0.029999999329447748,
+                0.0
+            ],
+            "rotation": [
+                0.0000017075473124350538,
+                90.0,
+                270.0
+            ],
+            "boundsCenter": [],
+            "boundsSize": []
+        },
+        {
+            "path": "The Red Door — Stage 1 v12/Markers_v11/ZONE_CARRIAGE",
+            "mesh": "",
+            "position": [
+                0.0,
+                1.2999999523162842,
+                0.0
+            ],
+            "rotation": [
+                270.019775390625,
+                0.0,
+                0.0
+            ],
+            "boundsCenter": [],
+            "boundsSize": []
+        },
+        {
+            "path": "The Red Door — Stage 1 v12/Markers_v11/ZONE_RD1",
+            "mesh": "",
+            "position": [
+                -5.559999942779541,
+                1.0299999713897706,
+                0.0
+            ],
+            "rotation": [
+                270.019775390625,
+                0.0,
+                0.0
+            ],
+            "boundsCenter": [],
+            "boundsSize": []
+        },
+        {
+            "path": "The Red Door — Stage 1 v12/Markers_v11/ZONE_RD2",
+            "mesh": "",
+            "position": [
+                4.849999904632568,
+                1.0499999523162842,
+                0.0
+            ],
+            "rotation": [
+                270.019775390625,
+                0.0,
+                0.0
+            ],
+            "boundsCenter": [],
+            "boundsSize": []
+        },
+        {
+            "path": "The Red Door — Stage 1 v12/Markers_v11/ZONE_VESTIBULE",
+            "mesh": "",
+            "position": [
+                -6.619999885559082,
+                1.274999976158142,
+                0.0
+            ],
+            "rotation": [
+                270.019775390625,
+                0.0,
+                0.0
+            ],
+            "boundsCenter": [],
+            "boundsSize": []
+        }
+    ]
+}

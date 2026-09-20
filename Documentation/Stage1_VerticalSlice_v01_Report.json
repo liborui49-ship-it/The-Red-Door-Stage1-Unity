@@ -1,0 +1,28 @@
+{
+    "createdUtc": "2026-09-20T15:21:41.9230450Z",
+    "unityVersion": "6000.3.19f1",
+    "sourceScene": "Assets/TheRedDoor/Stage1/Scenes/Stage1_Quest3_SmokeTest.unity",
+    "scenePath": "Assets/TheRedDoor/Stage1/Scenes/Stage1_VerticalSlice_v01.unity",
+    "sourceScenePreserved": true,
+    "xrOriginPresent": true,
+    "locomotionConfigured": true,
+    "firstRedDoorConfigured": true,
+    "firstRedDoorOpensAwayFromStart": true,
+    "smokeTestCubeRemovedFromVerticalSlice": true,
+    "colliderCount": 42,
+    "meshColliderCount": 9,
+    "boxColliderCount": 32,
+    "baselineLightCount": 5,
+    "lightProbeCount": 36,
+    "reflectionProbeCount": 2,
+    "questRuntimeValidated": false,
+    "notes": [
+        "The original smoke-test scene remains unchanged and disabled in Build Settings.",
+        "Locomotion uses the left controller stick; snap turning uses the right controller stick.",
+        "WASD and Q/E are available for editor-side input checks.",
+        "The first red door opens once by proximity; grab interaction is deferred.",
+        "Lighting is a mixed-light baseline. Final baking and Quest performance tuning are deferred.",
+        "No passenger animation, smoke particles, FMOD, or final audio was added.",
+        "Quest 3 runtime is not yet validated."
+    ]
+}
